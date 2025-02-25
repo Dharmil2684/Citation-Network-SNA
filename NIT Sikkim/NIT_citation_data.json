@@ -1,0 +1,2990 @@
+{
+    "49af9b46020639c7b9f0a59c77b2e1b3bd53157c": {
+        "dict": {
+            "49af9b46020639c7b9f0a59c77b2e1b3bd53157c": "Resource management in pervasive Internet of Things: A survey",
+            "87e6cbce2c6d1f6e2e8b7492b44793e055321323": "Text-and-timbre-based speech semantic coding for ultra-low-bitrate communications",
+            "43db8360e926f2e163d61b4ddad595911e809359": "Enhancing Internet of Things communications: Development of a new S-box and multi-layer encryption framework",
+            "6d36a982253f2e0f5bef8825d15923c12ff74951": "Exploring Personalized Internet of Things (PIoT), social connectivity, and Artificial Social Intelligence (ASI): A survey",
+            "2ab5d822026ad0b7f47071612442802423d3916b": "A greedy randomized adaptive search procedure for scheduling IoT tasks in virtualized fog\u2013cloud computing",
+            "19cd98d8f42bcf6d45e84d5aada7f20beb85960d": "GBDT-IL: Incremental Learning of Gradient Boosting Decision Trees to Detect Botnets in Internet of Things",
+            "916da226be9f01ee5dce157f51bee5c27872969f": "A systematic review of applying grey wolf optimizer, its variants, and its developments in different Internet of Things applications",
+            "930d077b0d96456e9b64ee21d40d32e9d91a92a6": "Variational Quantum Algorithms for the Allocation of Resources in a Cloud/Edge Architecture",
+            "42fc669eba16f8c514207e19691633d959eaaab6": "An Efficient Systematic Approach for Adaptability Synthesis of IOT's Performance",
+            "23bda784d71ad2bf3c8ea479ce596f571bb14c00": "Optimization of Maritime Communication Workflow Execution with a Task-Oriented Scheduling Framework in Cloud Computing",
+            "9af6d2fb0cf342bec2512ae5d1f21d952dd88af8": "Deep Image Semantic Communication Model for Artificial Intelligent Internet of Things",
+            "2d49a48ef53202b8334e47885545d78bd7e9c6db": "BlockFaaS: Blockchain-enabled Serverless Computing Framework for AI-driven IoT Healthcare Applications",
+            "4137f004e12093060e8866c534ee1690ac8cdd90": "IoT systems modeling and performance evaluation",
+            "f98ff61a499110499c117df74b368d063d6a8f0f": "An Enhanced Lightweight Security Gateway Protocol for the Edge Layer",
+            "1fd1edb005c32734f695ccc070bb498ff5eaf298": "Secrecy\u2010enabled resource allocation in cloud\u2010assisted IoT networks",
+            "7511b927b1de87cc6f9a4d07768c584c72804967": "Resource Allocation in Internet of Things: Concepts and Comparison of Approaches",
+            "5b9c4202ee1ce6d0513319cce4cf5bc952babe00": "The internet of medical things in healthcare management: a review",
+            "252d45ccdd0fd2e0e152bdc5b8696af0b355b5c0": "Intelligent resource allocation decision using deep learning and optimization techniques for HetNets",
+            "81e3828d457f61a5e7637200f2b56b67f92563be": "Resource Management approaches to Internet of Vehicles",
+            "9ee5a2c6451ef6ab3cc9778de287437f772f4209": "SYSTEMATIC LITERATURE REVIEW OF IOT METRICS",
+            "6db57dfc382f271e3c885b199c6c67a462e4beda": "Reliable Resource Allocation and Management for IoT Transportation Using Fog Computing",
+            "1031c42d45243e87b96cf84d9d102606b980cea1": "Linear Interval Approximation of Sensor Characteristics with Inflection Points",
+            "9dc7387d66d81d288a1a571fae7d009f21e00a8d": "Using the Compute Continuum for Data Analysis: Edge-cloud Integration for Urban Mobility",
+            "2c862c103628ed5fe4e439db1f68ed29622df35a": "A Multi-Objective Crowding Optimization Solution for Efficient Sensing as a Service in Virtualized Wireless Sensor Networks",
+            "8fb5a7db26839d1b385c36682ec59f9f885a41e4": "On Securing the Communication in IoT Infrastructure using Elliptic Curve Cryptography",
+            "6dcb8471448f383bf50f1fdae2c9ca46b85ed517": "Impacto social del internet de las cosas (IdC): una reflexi\u00f3n conceptual",
+            "7c0d19bc38d298e74cd9f1bea33e7c7679bf62b1": "Energy-efficient SDN for Internet of Things in smart city",
+            "e4052abd1093178082c7add1af886cd5e2fb197a": "An IoT enabled Smart City: Assessing the Applications, Resource Constraints, Existing Solutions and Research Directions",
+            "d88aeef67198cdba9084dc26327c4f4a849bb839": "An Internet-of-Things based Real-time Monitoring System for Smart Classroom",
+            "3b0b4b13366cb4bdc019b06a807bdf2cd48b4759": "A Bibliometric Analysis and Review of Resource Management in Internet of Water Things: The Use of Game Theory",
+            "2b85b4ef2876fe37c64a1ad059a42152c8681322": "A metaprotocol-based Internet of Things architecture",
+            "0b1c5d239f52a345d68a7c5a8f0893a35b248bf7": "Load Balancing Based on Many-objective Particle Swarm Optimization Algorithm with Support Vector Regression in Fog Computing",
+            "85aa790c44a7d04fbc2d16b11bb5226884f94058": "Machine Learning and Internet of Things Enabled Monitoring of Post-Surgery Patients: A Pilot Study",
+            "f50d073f67b8ce82eb4354884827ce1834c8c80b": "Linear Interval Approximation for Smart Sensors and IoT Devices",
+            "49d7ef70ad410dbf4025e6318688f1ae4d71ed2a": "\"A systematic literature review on IoT gateways\"",
+            "d104df5f34f6a2eba936395838822de4c56e7c24": "Securing Resource-Constrained IoT Nodes: Towards Intelligent Microcontroller-Based Attack Detection in Distributed Smart Applications",
+            "802a44725b7fa2868d6196565a093930d538f997": "IoT platforms and services configuration through parameter sweep: a simulation-based approach",
+            "77a1498cd84428303ee449a508cc43fcc9cb82c9": "Evaluation of Large Scale RoI Mining Applications in Edge Computing Environments",
+            "e92fa108c15bd897f49af2a974d8e37709bbfbae": "Internet of Things: A Review of Functionality, Applications, Architectures and Challenges",
+            "29875289adee9fcd7d66e5a6900819d8fe29e2bc": "Biometrics for Internet-of-Things Security: A Review",
+            "3410547e3f9a774a7f2b618aaf2a229463975cb4": "Service management mechanisms in the internet of things: an organized and thorough study",
+            "4ffcc4dc8029630b609a7450b5d4f0c9d8d58f48": "Blockchain Decentralized IoT Trust Management",
+            "560159a84a8edb4dfceaf60b18cc3e41d85f94c7": "Distributed Algorithm for Base Station Assignment in 4G/5G Machine-Type Communication Scenarios with Backhaul Limited Conditions",
+            "a77f6cf54821ab89b9e2d2a76d3506b844330418": "ETI-ECF: Edge Computing Framework for Distribution Network Electrical Topology Identification",
+            "f86064f842f059d46d6acd317020ee9a44aa58c6": "Trust Induced Resource Provisioning (TIRP) Mechanism in IoT",
+            "21cbd5a09a7fc255b1017a8034ba44353aad41a6": "Smart Design for Resources Allocation in IoT Application Service based on multi-agent system and CSP",
+            "5b4984983f91ff1dc6a0856e882b4c105ce22d8f": "A Parallelization based Data Management Framework for Pervasive IoT Applications",
+            "dd9ee992f35d067d481d98865b36fc66a48327a1": "A distributed key authentication and OKM-ANFIS scheme based breast cancer prediction system in the IoT environment",
+            "8d18a4d4eb3aff73625cb40ebb1e1f2baa5191d1": "Future Knowledge Management Challenges: Digital Twins Approach and Synergy Measurements",
+            "10a8a7fc6f5d0631aa3aa0193ba711919e4087a9": "An ontology-based system for discovering landslide-induced emergencies in electrical grid",
+            "43cca0797f5bb6cef26151ba2fe8fd6855856b65": "A virtual execution platform for OpenFlow controller using NFV",
+            "6c878cb42c82d43fd2602018e2e50696666e30ff": "Big Data & Disruptive Computing Platforms Braced Internet of Things: Facets & Trends",
+            "24358579ea7c5d685ad932bdf6fef9f8420bede1": "Evaluaci\u00f3n de la gesti\u00f3n de almacenes. Estudio de entidades del municipio Sancti Spiritus, Cuba",
+            "a8c14a5b952050f40b4bfd82be0ab0f48f798daf": "Towards a Smart Data Transmission Strategy for IoT Monitoring Systems: Application to Air Quality Monitoring",
+            "34c72f9a87fb941dc07c54199df399ae6c6b8e2e": "IoMT Platform for Pervasive Healthcare Data Aggregation, Processing, and Sharing Based on OneM2M and OpenEHR",
+            "89c920918d6b622582090c8d982e9cb7a83067f7": "SecOFF-FCIoT: Machine learning based secure offloading in Fog-Cloud of things for smart city applications",
+            "3368d1926ac43cd7ba590fe812a34f6b024711b7": "Analysis of Factors Influencing Adoption of Internet of Things: A System Dynamics Approach",
+            "e0b04506854e4726dff20ac46c6732d5f709c173": "Digital Twins Approach and Future Knowledge Management Challenges: Where We Shall Need System Integration, Synergy Analyses and Synergy Measurements?",
+            "fee2325f2c8f2c1cdd821080f259d9d89de87f50": "System Dynamics perspective for Adoption of Internet of Things: A Conceptual Framework",
+            "6c34f93dbcb34e259114f3fcaaeb202c495ca3cb": "A Situation Based Predictive Approach for Cybersecurity Intrusion Detection and Prevention Using Machine Learning and Deep Learning Algorithms in Wireless Sensor Networks of Industry 4.0",
+            "68015a0d415825d08455ce4f7c92a66ffadeb9e4": "A Comprehensive Survey on Resource Management in 6G Network Based on Internet of Things",
+            "ca216569425e11c8321d7f439db58799663e84a1": "Internet of Things (IoT): Origin, Embedded Technologies, Smart Applications, and Its Growth in the Last Decade",
+            "b68d5d1117fe6913ccc832e0a2b88c6271b1ffba": "A Latency-Aware and Fault-Tolerant Framework for Resource Scheduling and Data Management in Fog-Enabled Smart City Transportation Systems",
+            "fa7379a85349b34517f9da2fdbde6fa2dd1f4846": "Key communication technologies, applications, protocols and future guides for IoT-assisted smart grid systems: A review",
+            "b9ce1c6a88ee3064df9bc585ddf0fe6e454eef4e": "Shared mobility companies: A multi-case study comparing different business models and their performances",
+            "19372d37c62eb025ddea21b124d8ecb40867b92a": "Big Data Analytics of IoT-Based Cloud System Framework: Smart Healthcare Monitoring Systems",
+            "8e66c795173ec184615e168d75996edd027ed676": "Integrated blockchain and internet of things in the food supply chain: Adoption barriers",
+            "c7ff423b6251071f0624af4c1940cfbae9d306ef": "Deep Learning for Resource Management in Internet of Things Networks: A Bibliometric Analysis and Comprehensive Review",
+            "0262ce169542790051762a4e315fad8cdc2a4367": "Comprehensive Analysis of Resource Allocation and Service Placement in Fog and Cloud Computing",
+            "cca90506006f9fbbe1bf4d7a70e37c36c9c3a35e": "MIoT-Based Big Data Analytics Architecture, Opportunities and Challenges for Enhanced Telemedicine Systems",
+            "c872b68b1da6ce66901f6d165db26196264e48ba": "Constraints in Pervasive IoT Applications: An Analysis",
+            "bb529ecb765ea2d6fc4cf73af63c1a610f9d243b": "Modeling Resource Allocation in Pervasive Edge-IoT Applications",
+            "4fbe06d60014d6da008666cdc8a9396342995b6d": "Swarm intelligence based MSMOPSO for optimization of resource provisioning in Internet of Things",
+            "ac79a0e571002dc1f8409b339da6a2f3c3f27df3": "Ping Flood Attack Pattern Recognition Using a K-Means Algorithm in an Internet of Things (IoT) Network",
+            "65fbe47e84b2153eeb66481854084d553e1dc8ec": "QoS-Based Data Aggregation and Resource Allocation Algorithm for Machine Type Communication Devices in Next-Generation Networks",
+            "cd8604de23582d423c4ad10f60e40a27d764bb12": "A Survey of IoT Management Protocols and Frameworks",
+            "c22d1944395f6bd38bfd4ed6e3f6aa7e19ef4de9": "Fog Resource Allocation Through Machine Learning Algorithm",
+            "39abf9dfe05c8c99672dffa0033786f183c5fcaf": "Scalable Computing: Practice and Experience, ISSN 1895-1767, http://www.scpe.org \u00a9 2020 SCPE. Volume 21, Issues 3, pp. 497\u2013514, DOI 10.12694:/scpe.v21i3.1770 DESIGN AND MODELING OF RESOURCE-CONSTRAINED IOT BASED BODY AREA NETWORKS",
+            "2f940995f9011cc3b5113d6cbb57aabf0a03fc9b": "An efficient medical data encryption scheme using selective shuffling and inter-intra pixel diffusion IoT-enabled secure E-healthcare framework",
+            "ce4657c08cc8791ddebd625595dde58bab2645f9": "A risk assessment method for power internet of things information security based on multi\u2010objective hierarchical optimisation",
+            "0053e96bdd0bf22ee3496f016a6ae83d11e5d682": "An intelligent cyber-physical system based-consensus algorithm for sustainable edge service provisioning in 6G-based IIoT applications",
+            "8722f30bca1b478d54f0bda59d842667e0469487": "Cognitive Transformation in Personal IoT: Pioneering Intelligent Automation",
+            "f1f156fe3a4c802bee734251eb459b6d3c22a5d1": "Machine learning and flavoromics-based research strategies for determining the characteristic flavor of food: A review",
+            "23b29368593023d366bdbec2a32317b8af0de691": "Enhancing chernobyl disaster optimization: a novel hybridization approach with modified grey wolf optimizer for solving complex optimization problems",
+            "93f25a6829b49eb71629f6e477ed01267df28a6f": "Development of an Improved GWO Algorithm for Solving Optimal Paths in Complex Vertical Farms with Multi-Robot Multi-Tasking",
+            "4bcd16cff23818e80cfaf8e3a9fe9aaeb1f3e8c8": "An improved equilibrium optimization algorithm for feature selection problem in network intrusion detection",
+            "66b63d222cf06d4e0fcc2b883c116aee6d230ebc": "A Hybrid Approach Based on LMP and VCG Mechanism to Create a Positive Interaction Between Distribution Companies and Owners of DG Units",
+            "f2a1457dc8673e54d580dd3028d6e2a0e00bc1ad": "Quantum Optimization for Energy Management: A Coherent Variational Approach",
+            "1a450b592917956e7ab3432d47f8554550b8cd41": "Estimating Performances of Application Deployment on Distributed IoT-Edge-Cloud Infrastructures",
+            "5ed4fb294a9d044ccdda5cefeddbd9aae7fd4639": "Research on Worker Allocation Optimization Based on Real-Time Data in Cloud Computing",
+            "98e8283d52f654ee23223b05def0bbbf90fa459d": "Cloud Security in a Multicloud World: Best Practices for Protecting Data and Applications Across Multiple Platforms",
+            "907fd557658a3059671cbf5f2281f45f8a887221": "Mitigating Maritime Cybersecurity Risks Using AI-Based Intrusion Detection Systems and Network Automation During Extreme Environmental Conditions",
+            "ddb6ee1d06d8fad181238d524dc7cd3f63edcaa7": "Identification of Shipborne VHF Radio Based on Deep Learning with Feature Extraction",
+            "a69da5bbc58732d443fdfd61bd4252045aed9ebb": "Predictive Energy Management for Docker Containers in Cloud Computing: A Time Series Analysis Approach",
+            "10c84603202e4f6716de064974a2fde099ed6323": "An Edge Computing-Based Preventive Framework With Machine Learning- Integration for Anomaly Detection and Risk Management in Maritime Wireless Communications",
+            "4f44eb1abb90cb91e3041e2e3458ec100597d4c1": "A decentralised approach to cyber-physical systems as a service: Managing shared access worldwide through blockchain standards",
+            "891a89fad669dc7d107ad2d5a047b288b5cc9832": "ATOM: AI-Powered Sustainable Resource Management for Serverless Edge Computing Environments",
+            "3c5bf0c7640b56f7bab4fb93ea8b6440c710fd0e": "BS-GeoEduNet 1.0: Blockchain-Assisted Serverless Framework for Geospatial Educational Information Networks",
+            "d8bb51276329e0af37cf27147aa29ed4067dcbb0": "Computing: Looking Back and Moving Forward",
+            "1ff74b7a42d5f7a3f0173191be4a7c7ce814478c": "Edge AI: A Taxonomy, Systematic Review and Future Directions",
+            "a9b5c0850d196200a10b643548d894448e9206ac": "Blok Zincir Teknolojisine Akademik Y\u00f6nden Ne Kadar Haz\u0131r\u0131z: T\u00fcrkiye Adresli Blok Zincir Konusundaki Uluslararas\u0131 Yay\u0131nlar\u0131n Analizi ve Alan\u0131n Geli\u015fimine Y\u00f6nelik \u00d6neriler",
+            "8f4fb544bc39b6ed62a99659ddb0c93a313860b6": "CloudAIBus: a testbed for AI based cloud computing environments",
+            "d8fa6041aefb6b4af40a9c1acf64369895bd9565": "PRICELESS: Privacy enhanced AI\u2010driven scalable framework for IoT applications in serverless edge computing environments",
+            "115efb6260148f95ac6b93438bd18cb4adfdc77d": "Modern Computing: Vision and Challenges",
+            "b02364ab877be7f412027c769eb368a8c4c10d35": "Telematics and Informatics Reports",
+            "65988e2a748efbe34a02e5b281d66e7c6ac0b317": "Architectural Framework for IoT Driven Data Acquisition and Transmission for Dynamic Assessments of Personal Driving Risk Indicator",
+            "9c2fa7a16dc8c799a5dec7084d4482ad93241491": "Q-IoT: QoS-Aware Multilayer Service Architecture for Multiclass IoT Data Traffic Management",
+            "be8da22838affd88860034f3fdde3736322de85d": "MODERN PERSPECTIVES IN BULGARIAN ENGINEERING EDUCATION THROUGH THE PRISM OF EXPERTS FROM THE IT SECTOR (EMPIRICAL STUDY)",
+            "8ea4e5e803aa1a646a2d817e6a9cc969b1c177df": "Enhanced Network Selection Algorithms for IoT-Home Environments With Hybrid VLC/RF Systems",
+            "6623ebe4d957577c1fad40c4e1e6944e30a023d5": "Dynamic Resource Allocation for IoT-Fog Architectures Leveraging Differential Services and Adaptive QoS Models",
+            "dde989f4cab58d94c47438f598d2fff9326b6f4b": "Multi-modality medical image classification with ResoMergeNet for cataract, lung cancer, and breast cancer diagnosis.",
+            "8a14423eeaea7b6dba1722cabc8f0c8c29d049a8": "Polynomial-SHAP analysis of liver disease markers for capturing of complex feature interactions in machine learning models",
+            "5f112d2319f0749a4c62b380c62d8ebf9bad3e1b": "MACCoM: A multiple attention and convolutional cross-mixer framework for detailed 2D biomedical image segmentation",
+            "45ddbbacc58216c4de60e04ba56bd2bedd04f2c7": "Remote mobile health monitoring frameworks and mobile applications: Taxonomy, open challenges, motivation, and recommendations",
+            "23655570a343637650da6075994606021a133b92": "Impact of Remote Medical Devices on Utilization of Medical Services in Pediatric Patients with Upper Respiratory Infections: A Retrospective Study",
+            "4e44c0c417b379b9cd332aa76340fb138cff29f3": "ResfEANet: ResNet-fused External Attention Network for Tuberculosis Diagnosis using Chest X-ray Images",
+            "8fd6ac977e0da113ef318872b7a596c6170e671c": "Breast cancer diagnosis and management guided by data augmentation, utilizing an integrated framework of SHAP and random augmentation",
+            "6f747d7574419fab717c63c60ac49f6bdd6885cf": "Digital E-Dashboard for Sterilization Room: Enhancing Monitoring and Control Systems for Health",
+            "e1e6505ac811c2fea191023951617fb4e707ed5b": "Power allocation method based on modified social network search algorithm",
+            "78c6f286dc32edb37de5ef4968cd8ce53c842a0f": "Enhancing routing and quality of service using AI-driven technique for internet of vehicles contexts",
+            "1ae4513e09b582767f2823054f4fb8bf998522a7": "Trust management in the internet of vehicles: a systematic literature review of blockchain integration",
+            "1b12215a98061e76b580b0aed6ae053cf90ed697": "AI-based & heuristic workflow scheduling in cloud and fog computing: a systematic review",
+            "49bb32aee5fde24e4f21c38f2a001eca93de1dca": "Performance validation for an Internet of Things (IoT)-based Model for hydro-electric monitoring",
+            "edbcc1530d73895bf2ea8530083a3fa2a6cb454e": "Functional Size Measurement of IoT Devices using COSMIC Function Point: A Novel Set of Guidelines",
+            "7fcc9d47862adc8643f2001f1758471992859694": "Reducing the Error of Measurement of the Potentiometric Method of the Conductive Liquid Level Meter",
+            "9f86ccbd2ef7f5bf45355f9efab660f9ef5b4974": "Decoupling Variable Capacitance and Diffusive Components of Active Solid\u2013Liquid Interfaces with Flex Points",
+            "a00ffcb900306b69703a90479dc5daa1b48f91bf": "Generalized Approach to Optimal Polylinearization for Smart Sensors and Internet of Things Devices",
+            "798d8741413a98e255ba10ae75c2d427b439908e": "Study the Level of Network Security and Penetration Tests on Power Electronic Device",
+            "826457557856c5fbca622da96cb49ce2d0bc19b2": "Application of GNS3 to Study the Security of Data Exchange between Power Electronic Devices and Control Center",
+            "adc985dec24837f1bb11800c015cf245da2bead0": "CV POp-CoRN: The (smart) city-vehicle participatory-opportunistic cooperative route navigation system",
+            "557e6fc08ef66f90f27e33b1e984fd08bd7022b1": "Cloud-Edge-Client Continuum: Leveraging Browsers as Deployment Nodes with Virtual Pods",
+            "15c3b03fedb8473d43f05cb8cabce844b4272b18": "Enhanced Task Scheduling and Resource Allocation in Edge-Cloud Continuum Using Modified Flower Pollination Algorithm"
+        },
+        "authors": {
+            "49af9b46020639c7b9f0a59c77b2e1b3bd53157c": [
+                "S. Zahoor",
+                "R. N. Mir"
+            ],
+            "87e6cbce2c6d1f6e2e8b7492b44793e055321323": [
+                "Xiaoniu Yang",
+                "Liping Qian",
+                "Lyu Sikai",
+                "Wang Qian",
+                "Wang Wei"
+            ],
+            "43db8360e926f2e163d61b4ddad595911e809359": [
+                "Adel R. Alharbi",
+                "Amer Aljaedi",
+                "Abdullah Aljuhni",
+                "M. Alghuson",
+                "Hussain Aldawood",
+                "Sajjad Shaukat Jamal",
+                "Tariq Shah"
+            ],
+            "6d36a982253f2e0f5bef8825d15923c12ff74951": [
+                "Bisma Gulzar",
+                "S. Sofi",
+                "Sahil Sholla"
+            ],
+            "2ab5d822026ad0b7f47071612442802423d3916b": [
+                "Rezvan Salimi",
+                "S. Azizi",
+                "J. Abawajy"
+            ],
+            "19cd98d8f42bcf6d45e84d5aada7f20beb85960d": [
+                "Ruidong Chen",
+                "Tianci Dai",
+                "Yanfeng Zhang",
+                "Yukun Zhu",
+                "Xin Liu",
+                "Erfan Zhao"
+            ],
+            "916da226be9f01ee5dce157f51bee5c27872969f": [
+                "Mohammad-Hossein Nadimi-Shahraki",
+                "Hoda Zamani",
+                "Zahra Asghari Varzaneh",
+                "Ali Safa Sadiq",
+                "Seyedali Mirjalili"
+            ],
+            "930d077b0d96456e9b64ee21d40d32e9d91a92a6": [
+                "C. Mastroianni",
+                "Francesco Plastina",
+                "J. Settino",
+                "Andrea Vinci"
+            ],
+            "42fc669eba16f8c514207e19691633d959eaaab6": [
+                "Mehak Fatima",
+                "Hamayun Khan",
+                "Irfan Uddin",
+                "Muhammad Nabeel Amin",
+                "Attiq Ur Rehman"
+            ],
+            "23bda784d71ad2bf3c8ea479ce596f571bb14c00": [
+                "Z. Ahmad",
+                "Tayfun Acarer",
+                "Wooseong Kim"
+            ],
+            "9af6d2fb0cf342bec2512ae5d1f21d952dd88af8": [
+                "Li Ping Qian",
+                "Yi Zhang",
+                "Sikai Lyu",
+                "Huijie Zhu",
+                "Yuan Wu",
+                "X. Shen",
+                "Xiaoniu Yang"
+            ],
+            "2d49a48ef53202b8334e47885545d78bd7e9c6db": [
+                "Muhammed Golec",
+                "S. Gill",
+                "Mustafa Golec",
+                "Minxian Xu",
+                "Soumya K. Ghosh",
+                "S. Kanhere",
+                "Omer F. Rana",
+                "Steve Uhlig"
+            ],
+            "4137f004e12093060e8866c534ee1690ac8cdd90": [
+                "Alem \u010colakovi\u0107"
+            ],
+            "f98ff61a499110499c117df74b368d063d6a8f0f": [
+                "Masum Reza",
+                "Jairo Guti\u00e9rrez"
+            ],
+            "1fd1edb005c32734f695ccc070bb498ff5eaf298": [
+                "Krati Dubey",
+                "S. Pandey",
+                "Sanjay Kumar"
+            ],
+            "7511b927b1de87cc6f9a4d07768c584c72804967": [
+                "Lylia Benmessaoud",
+                "Sa\u00efda Boukhedouma"
+            ],
+            "5b9c4202ee1ce6d0513319cce4cf5bc952babe00": [
+                "C. Ejiyi",
+                "Zhen Qin",
+                "M. B. Ejiyi",
+                "G. U. Nneji",
+                "H. Monday",
+                "Favour Amarachi Agu",
+                "T. U. Ejiyi",
+                "Chidinma N. Diokpo",
+                "C. Orakwue"
+            ],
+            "252d45ccdd0fd2e0e152bdc5b8696af0b355b5c0": [
+                "Rosy Salomi Victoria D",
+                "P. P.",
+                "Glory Ratna Mary D"
+            ],
+            "81e3828d457f61a5e7637200f2b56b67f92563be": [
+                "M. Hosseinzadeh",
+                "Shirin Abbasi",
+                "A. Rahmani"
+            ],
+            "9ee5a2c6451ef6ab3cc9778de287437f772f4209": [
+                "Donatien Koulla Moulla",
+                "Ernest Mnkandla",
+                "A. Abran"
+            ],
+            "6db57dfc382f271e3c885b199c6c67a462e4beda": [
+                "Haseeb Ullah Atiq",
+                "Z. Ahmad",
+                "Sardar Khaliq uz Zaman",
+                "Muhammad Amir Khan",
+                "A. Shaikh",
+                "Amal Al-Rasheed"
+            ],
+            "1031c42d45243e87b96cf84d9d102606b980cea1": [
+                "M. Marinov",
+                "Nikolay Nikolov",
+                "Slav Dimitrov",
+                "Borislav Ganev",
+                "G. Nikolov",
+                "Y. Stoyanova",
+                "Todor Todorov",
+                "Lachezar Kochev"
+            ],
+            "9dc7387d66d81d288a1a571fae7d009f21e00a8d": [
+                "Loris Belcastro",
+                "Fabrizio Marozzo",
+                "A. Orsino",
+                "D. Talia",
+                "Paolo Trunfio"
+            ],
+            "2c862c103628ed5fe4e439db1f68ed29622df35a": [
+                "Ramy A. Othman",
+                "S. Darwish",
+                "Ibrahim A. Abd El-Moghith"
+            ],
+            "8fb5a7db26839d1b385c36682ec59f9f885a41e4": [
+                "Hugo Bourreau",
+                "Emeric Guichet",
+                "Amine Barrak",
+                "Beno\u00eet Simon",
+                "Fehmi Jaafar"
+            ],
+            "6dcb8471448f383bf50f1fdae2c9ca46b85ed517": [
+                "Patricia Guti\u00e9rrez Prada",
+                "G. B. De Corso-Sicilia",
+                "Wilson Giovanni Jim\u00e9nez-Barbosa"
+            ],
+            "7c0d19bc38d298e74cd9f1bea33e7c7679bf62b1": [
+                "Chen-Jung Cheng",
+                "Jing Dou",
+                "Zhijiang Zheng"
+            ],
+            "e4052abd1093178082c7add1af886cd5e2fb197a": [
+                "S. Zahoor",
+                "R. N. Mir"
+            ],
+            "d88aeef67198cdba9084dc26327c4f4a849bb839": [
+                "O. Ojo",
+                "M. Kareem",
+                "Samuel Odunuyi",
+                "C. Ugwunna"
+            ],
+            "3b0b4b13366cb4bdc019b06a807bdf2cd48b4759": [
+                "S. Olatinwo",
+                "T. Joubert"
+            ],
+            "2b85b4ef2876fe37c64a1ad059a42152c8681322": [
+                "L. Milic",
+                "L. Jelenkovic",
+                "I. Magdalenic"
+            ],
+            "0b1c5d239f52a345d68a7c5a8f0893a35b248bf7": [
+                "Mona Albalawi",
+                "Entisar S. Alkayal"
+            ],
+            "85aa790c44a7d04fbc2d16b11bb5226884f94058": [
+                "S. Alsareii",
+                "Mohsin Raza",
+                "A. Alamri",
+                "M. AlAsmari",
+                "Muhammad Irfan",
+                "Umar F. Khan",
+                "Muhammad Awais"
+            ],
+            "f50d073f67b8ce82eb4354884827ce1834c8c80b": [
+                "M. Marinov",
+                "Nikolay Nikolov",
+                "Slav Dimitrov",
+                "Todor Todorov",
+                "Y. Stoyanova",
+                "G. Nikolov"
+            ],
+            "49d7ef70ad410dbf4025e6318688f1ae4d71ed2a": [
+                "Gunjan Beniwal",
+                "Anita Singhrova"
+            ],
+            "d104df5f34f6a2eba936395838822de4c56e7c24": [
+                "Andrii Shalaginov",
+                "M. A. Azad"
+            ],
+            "802a44725b7fa2868d6196565a093930d538f997": [
+                "A. Barbieri",
+                "Fabrizio Marozzo",
+                "Claudio Savaglio"
+            ],
+            "77a1498cd84428303ee449a508cc43fcc9cb82c9": [
+                "Loris Belcastro",
+                "A. Falcone",
+                "A. Garro",
+                "Fabrizio Marozzo"
+            ],
+            "e92fa108c15bd897f49af2a974d8e37709bbfbae": [
+                "S. Zahoor",
+                "Shabir A.Sofi"
+            ],
+            "29875289adee9fcd7d66e5a6900819d8fe29e2bc": [
+                "Wencheng Yang",
+                "Song Wang",
+                "N. Sahri",
+                "Nickson M. Karie",
+                "Mohiuddin Ahmed",
+                "C. Valli"
+            ],
+            "3410547e3f9a774a7f2b618aaf2a229463975cb4": [
+                "Jiuhong Yu",
+                "Mengfei Wang",
+                "Jinfan Liu",
+                "Karlo Abnoosian"
+            ],
+            "4ffcc4dc8029630b609a7450b5d4f0c9d8d58f48": [
+                "Ammar Ibrahim El Sayed",
+                "Mahmoud Abdel Aziz",
+                "M. Azeem"
+            ],
+            "560159a84a8edb4dfceaf60b18cc3e41d85f94c7": [
+                "Edgar A. Esquivel-Mendiola",
+                "Hiram Galeana-Zapi\u00e9n",
+                "D. Covarrubias",
+                "Edwin Aldana-Bobadilla"
+            ],
+            "a77f6cf54821ab89b9e2d2a76d3506b844330418": [
+                "Lina Liu",
+                "Ruichao Li",
+                "Yifei Zhou",
+                "Zhongbing Wan",
+                "Jiaju Wang",
+                "Tao Wang",
+                "Yuhang Zhang",
+                "Jie Xu"
+            ],
+            "f86064f842f059d46d6acd317020ee9a44aa58c6": [
+                "Daneshwari I. Hatti",
+                "A. Sutagundar"
+            ],
+            "21cbd5a09a7fc255b1017a8034ba44353aad41a6": [
+                "Mouadh Bali",
+                "A. Tari",
+                "Abdallah Almutawakel",
+                "O. Kazar"
+            ],
+            "5b4984983f91ff1dc6a0856e882b4c105ce22d8f": [
+                "S. Zahoor",
+                "R. N. Mir"
+            ],
+            "dd9ee992f35d067d481d98865b36fc66a48327a1": [
+                "V. Savitha",
+                "N. Karthikeyan",
+                "S. Karthik",
+                "R. Sabitha"
+            ],
+            "8d18a4d4eb3aff73625cb40ebb1e1f2baa5191d1": [
+                "J. Kaivo\u2010oja",
+                "M. Knudsen",
+                "Theresa Laura\u00e9us",
+                "Osmo Kuusi"
+            ],
+            "10a8a7fc6f5d0631aa3aa0193ba711919e4087a9": [
+                "J. Phengsuwan",
+                "Tejal Shah",
+                "Rui Sun",
+                "Philip James",
+                "D. Thakker",
+                "R. Ranjan"
+            ],
+            "43cca0797f5bb6cef26151ba2fe8fd6855856b65": [
+                "B. K. Tripathy",
+                "K. Sahoo",
+                "A. K. Luhach",
+                "Noor Zaman Jhanjhi",
+                "S. Jena"
+            ],
+            "6c878cb42c82d43fd2602018e2e50696666e30ff": [
+                "Naveenkumar Jayakumar",
+                "D. Joshi"
+            ],
+            "24358579ea7c5d685ad932bdf6fef9f8420bede1": [
+                "Douglas Adolfo Garc\u00eda G\u00f3mez",
+                "Martha G\u00f3mez Acosta",
+                "Yamar\u00fa del Valle Chirinos Araque"
+            ],
+            "a8c14a5b952050f40b4bfd82be0ab0f48f798daf": [
+                "Razika Lounas",
+                "Dhai Eddine Salhi",
+                "Hocine Mokrani",
+                "Rachid Djerbi",
+                "M. Bennai"
+            ],
+            "34c72f9a87fb941dc07c54199df399ae6c6b8e2e": [
+                "J. N. Rub\u00ed",
+                "P. Gondim"
+            ],
+            "89c920918d6b622582090c8d982e9cb7a83067f7": [
+                "Adam A. Alli",
+                "Muhammad Alam"
+            ],
+            "3368d1926ac43cd7ba590fe812a34f6b024711b7": [
+                "Shailja Tripathi",
+                "Laxmi Pandit"
+            ],
+            "e0b04506854e4726dff20ac46c6732d5f709c173": [
+                "J. Kaivo\u2010oja",
+                "Osmo Kuusi",
+                "M. Knudsen",
+                "Theresa Laura\u00e9us"
+            ],
+            "fee2325f2c8f2c1cdd821080f259d9d89de87f50": [
+                "Shailja Tripathi"
+            ],
+            "6c34f93dbcb34e259114f3fcaaeb202c495ca3cb": [
+                "Fatima Al-Quayed",
+                "Z. Ahmad",
+                "M. Humayun"
+            ],
+            "68015a0d415825d08455ce4f7c92a66ffadeb9e4": [
+                "Seyedsalar Sefati",
+                "Asim Ul Haq",
+                ".. Nidhi",
+                "Razvan Craciunescu",
+                "Simona Halunga",
+                "A. Mihovska",
+                "O. Fratu"
+            ],
+            "ca216569425e11c8321d7f439db58799663e84a1": [
+                "J. S. Yalli",
+                "Mohd H. Hasan",
+                "Aisha Badawi"
+            ],
+            "b68d5d1117fe6913ccc832e0a2b88c6271b1ffba": [
+                "Ibrar Afzal",
+                "Noor ul Amin",
+                "Zulfiqar Ahmad",
+                "Abdulmohsen Algarni"
+            ],
+            "fa7379a85349b34517f9da2fdbde6fa2dd1f4846": [
+                "Md Ohirul Qays",
+                "I. Ahmad",
+                "A. Abu\u2010Siada",
+                "Md Liton Hossain",
+                "Farhana Yasmin"
+            ],
+            "b9ce1c6a88ee3064df9bc585ddf0fe6e454eef4e": [
+                "Andr\u00e9 Koide da Silva",
+                "Cesar Alexandre de Souza",
+                "L. Pinochet",
+                "A. Viana"
+            ],
+            "19372d37c62eb025ddea21b124d8ecb40867b92a": [
+                "J. B. Awotunde",
+                "R. Jimoh",
+                "R. Ogundokun",
+                "Sanjay Misra",
+                "O. Abikoye"
+            ],
+            "8e66c795173ec184615e168d75996edd027ed676": [
+                "Shashank P. Kumar",
+                "Rakesh D. Raut",
+                "Nishant Agrawal",
+                "N. Cheikhrouhou",
+                "Mahak Sharma",
+                "T. Daim"
+            ],
+            "c7ff423b6251071f0624af4c1940cfbae9d306ef": [
+                "S. Olatinwo",
+                "T. Joubert"
+            ],
+            "0262ce169542790051762a4e315fad8cdc2a4367": [
+                "A. Gowri",
+                "P. Bala",
+                "Immanuel Zion Ramdinthara"
+            ],
+            "cca90506006f9fbbe1bf4d7a70e37c36c9c3a35e": [
+                "J. B. Awotunde",
+                "A. Adeniyi",
+                "R. Ogundokun",
+                "G. J. Ajamu",
+                "Paul Olujide Adebayo"
+            ],
+            "c872b68b1da6ce66901f6d165db26196264e48ba": [
+                "S. Zahoor",
+                "R. N. Mir"
+            ],
+            "bb529ecb765ea2d6fc4cf73af63c1a610f9d243b": [
+                "S. Zahoor",
+                "R. N. Mir"
+            ],
+            "4fbe06d60014d6da008666cdc8a9396342995b6d": [
+                "Daneshwari I. Hatti",
+                "A. Sutagundar"
+            ],
+            "ac79a0e571002dc1f8409b339da6a2f3c3f27df3": [
+                "Deris Stiawan",
+                "Meilinda Eka Suryani",
+                ".. Susanto",
+                "Mohd Yazid Bin Idris",
+                "Muawya N. Aldalaien",
+                "Nizar Alsharif",
+                "R. Budiarto"
+            ],
+            "65fbe47e84b2153eeb66481854084d553e1dc8ec": [
+                "N. Ahmed",
+                "Nasser-Eddine Rikli"
+            ],
+            "cd8604de23582d423c4ad10f60e40a27d764bb12": [
+                "S. Sinche",
+                "Duarte M. G. Raposo",
+                "Ngombo Armando",
+                "A. Rodrigues",
+                "F. Boavida",
+                "Vasco Pereira",
+                "J. Silva"
+            ],
+            "c22d1944395f6bd38bfd4ed6e3f6aa7e19ef4de9": [
+                "A. Gowri",
+                "P. Bala"
+            ],
+            "39abf9dfe05c8c99672dffa0033786f183c5fcaf": [
+                "S. Zahoor",
+                "Roohie Naaz"
+            ],
+            "2f940995f9011cc3b5113d6cbb57aabf0a03fc9b": [
+                "D. Ravichandran",
+                "W. Jebarani",
+                "Hemalatha Mahalingam",
+                "Padmapriya Velupillai Meikandan",
+                "Padmapriya Pravinkumar",
+                "Rengarajan Amirtharajan"
+            ],
+            "ce4657c08cc8791ddebd625595dde58bab2645f9": [
+                "Yunxiao Sun",
+                "Zhuang Ling",
+                "Ting Jia",
+                "Dabei Cheng",
+                "Xindong Zhao",
+                "Jing Guo"
+            ],
+            "0053e96bdd0bf22ee3496f016a6ae83d11e5d682": [
+                "Haewon Byeon",
+                "Soumya Jena",
+                "Kovvuri N. Bhargavi",
+                "J. V. N. Ramesh",
+                "Abdullayev Abror Bozarboyevich",
+                "Mukesh Soni",
+                "Mohammad Shabaz"
+            ],
+            "8722f30bca1b478d54f0bda59d842667e0469487": [
+                "Bisma Gulzar",
+                "Shabir Ahmad Sofi",
+                "Sahil Sholla"
+            ],
+            "f1f156fe3a4c802bee734251eb459b6d3c22a5d1": [
+                "Donglin Cai",
+                "Xueqing Li",
+                "Huifang Liu",
+                "Liankui Wen",
+                "Di Qu"
+            ],
+            "23b29368593023d366bdbec2a32317b8af0de691": [
+                "Said Al Afghani Edsa",
+                "K. Sunat"
+            ],
+            "93f25a6829b49eb71629f6e477ed01267df28a6f": [
+                "Jiazheng Shen",
+                "Tang Sai Hong",
+                "Luxin Fan",
+                "Ruixin Zhao",
+                "M. K. A. Mohd Ariffin",
+                "A. As'arry"
+            ],
+            "4bcd16cff23818e80cfaf8e3a9fe9aaeb1f3e8c8": [
+                "Zahra Asghari Varzaneh",
+                "Soodeh Hosseini"
+            ],
+            "66b63d222cf06d4e0fcc2b883c116aee6d230ebc": [
+                "Seyed Amir Mohammad Lahaghi",
+                "B. Zaker",
+                "G. Gharehpetian",
+                "V. Nurmanova",
+                "Mehdi Bagheri"
+            ],
+            "f2a1457dc8673e54d580dd3028d6e2a0e00bc1ad": [
+                "Farshad Amani",
+                "Amin Kargarian Marvasti"
+            ],
+            "1a450b592917956e7ab3432d47f8554550b8cd41": [
+                "Fabrizio Marozzo",
+                "Aleandro Presta",
+                "Rosa Varchera",
+                "Andrea Vinci"
+            ],
+            "5ed4fb294a9d044ccdda5cefeddbd9aae7fd4639": [
+                "Jingtian Zhang"
+            ],
+            "98e8283d52f654ee23223b05def0bbbf90fa459d": [
+                "Bijjam. Srinivasulu",
+                "Degala Anil",
+                "Lalitha Sowmya M",
+                "Lalitha Katuri",
+                "K. Swapna Rani"
+            ],
+            "907fd557658a3059671cbf5f2281f45f8a887221": [
+                "Akan Ime Ibokette",
+                "Tunde Olamide Ogundare",
+                "Abraham Peter Anyebe",
+                "Folami Ola-Oluwa Alao",
+                "Idoko Innocent Odeh",
+                "Francisca Chinonye Okafor"
+            ],
+            "ddb6ee1d06d8fad181238d524dc7cd3f63edcaa7": [
+                "Liang Chen",
+                "Jiayu Liu"
+            ],
+            "a69da5bbc58732d443fdfd61bd4252045aed9ebb": [
+                "Abdulmohsen Algarni",
+                "Iqrar Shah",
+                "A. I. Jehangiri",
+                "Mohammed Alaa Ala'anzy",
+                "Z. Ahmad"
+            ],
+            "10c84603202e4f6716de064974a2fde099ed6323": [
+                "Abdulmohsen Algarni",
+                "Tayfun Acarer",
+                "Z. Ahmad"
+            ],
+            "4f44eb1abb90cb91e3041e2e3458ec100597d4c1": [
+                "Juan Luis Ramos Villalon",
+                "Luis de la Torre",
+                "Zhongcheng Lei",
+                "Wenshan Hu",
+                "Hugo Tadashi Kussaba",
+                "Victoria Lemieux"
+            ],
+            "891a89fad669dc7d107ad2d5a047b288b5cc9832": [
+                "Muhammed Golec",
+                "S. Gill",
+                "F\u00e9lix Cuadrado",
+                "A. Parlikad",
+                "Minxian Xu",
+                "Huaming Wu",
+                "Steve Uhlig"
+            ],
+            "3c5bf0c7640b56f7bab4fb93ea8b6440c710fd0e": [
+                "M. Kandpal",
+                "Veena Goswami",
+                "Yash Pritwani",
+                "R. Barik",
+                "Manob Saikia"
+            ],
+            "d8bb51276329e0af37cf27147aa29ed4067dcbb0": [
+                "Muhammed Golec",
+                "S. Gill"
+            ],
+            "1ff74b7a42d5f7a3f0173191be4a7c7ce814478c": [
+                "S. Gill",
+                "Muhammed Golec",
+                "Jianmin Hu",
+                "Minxian Xu",
+                "Junhui Du",
+                "Huaming Wu",
+                "G. Walia",
+                "Subramaniam Subramanian Murugesan",
+                "Babar Ali",
+                "Mohit Kumar",
+                "Kejiang Ye",
+                "Prabal Verma",
+                "Surendra Kumar",
+                "F\u00e9lix Cuadrado",
+                "Steve Uhlig"
+            ],
+            "a9b5c0850d196200a10b643548d894448e9206ac": [
+                "Serkan Al\u0131c\u0131",
+                "Muhammet Damar",
+                "Y\u0131lmaz G\u00f6k\u015fen"
+            ],
+            "8f4fb544bc39b6ed62a99659ddb0c93a313860b6": [
+                "Sasidharan Velu",
+                "S. Gill",
+                "Subramaniam Subramanian Murugesan",
+                "Huaming Wu",
+                "Xingwang Li"
+            ],
+            "d8fa6041aefb6b4af40a9c1acf64369895bd9565": [
+                "Muhammed Golec",
+                "Mustafa Golec",
+                "Minxian Xu",
+                "Huaming Wu",
+                "S. Gill",
+                "Steve Uhlig"
+            ],
+            "115efb6260148f95ac6b93438bd18cb4adfdc77d": [
+                "S. Gill",
+                "Huaming Wu",
+                "Panos Patros",
+                "Carlo Ottaviani",
+                "Priyansh Arora",
+                "V\u00edctor Casamayor-Pujol",
+                "David Haunschild",
+                "A. Parlikad",
+                "Oktay Cetinkaya",
+                "H. Lutfiyya",
+                "V. Stankovski",
+                "Ruidong Li",
+                "Yuemin Ding",
+                "Junaid Qadir",
+                "Ajith Abraham",
+                "Soumya K. Ghosh",
+                "Houbing Herbert Song",
+                "R. Sakellariou",
+                "Omer F. Rana",
+                "Joel J. P. C. Rodrigues",
+                "Salil S. Kanhere",
+                "S. Dustdar",
+                "Steve Uhlig",
+                "K. Ramamohanarao",
+                "R. Buyya"
+            ],
+            "b02364ab877be7f412027c769eb368a8c4c10d35": [
+                "S. Gill",
+                "Huaming Wu",
+                "Panos Patros",
+                "Carlo Ottaviani",
+                "Priyansh Arora",
+                "V\u00edctor Casamayor Pujol",
+                "David Haunschild",
+                "A. Parlikad",
+                "Oktay Cetinkaya",
+                "H. Lutfiyya",
+                "V. Stankovski",
+                "Ruidong Li",
+                "Yuemin Ding",
+                "Junaid Qadir",
+                "Ajith Abraham",
+                "Soumya K. Ghosh",
+                "Houbing Herbert Song",
+                "R. Sakellariou",
+                "Omer F. Rana",
+                "Joel J. P. C. Rodrigues",
+                "S. Kanhere",
+                "S. Dustdar",
+                "Steve Uhlig",
+                "K. Ramamohanarao",
+                "R. Buyya",
+                "Elsevier IoT",
+                "Springer JoS",
+                "Wiley Ccpe"
+            ],
+            "65988e2a748efbe34a02e5b281d66e7c6ac0b317": [
+                "Bakir Karahod\u017ea",
+                "Alem \u010colakovi\u0107",
+                "Adnan Omerhod\u017ei\u0107"
+            ],
+            "9c2fa7a16dc8c799a5dec7084d4482ad93241491": [
+                "Kemal Cagri Serdaroglu",
+                "S. Baydere",
+                "Boonyarith Saovapakhiran",
+                "C. Charnsripinyo"
+            ],
+            "be8da22838affd88860034f3fdde3736322de85d": [
+                "Gergana Dimcheva",
+                "I. Stoyanov"
+            ],
+            "8ea4e5e803aa1a646a2d817e6a9cc969b1c177df": [
+                "Bravo Alvarez Lisandra",
+                "Montejo-S\u00e1nchez. Samuel",
+                "Rodr\u00edguez-L\u00f3pez. Lien",
+                "N\u00fa\u00f1ez-Kasaneva. Jos\u00e9",
+                "Ruiz-Guirola. David",
+                "Saavedra. Gabriel"
+            ],
+            "6623ebe4d957577c1fad40c4e1e6944e30a023d5": [
+                "Dr. V. Mahavaishnavi",
+                "Dr. V. Padmavathi",
+                "Dr. R. Saminathan"
+            ],
+            "dde989f4cab58d94c47438f598d2fff9326b6f4b": [
+                "C. Ejiyi",
+                "Dongsheng Cai",
+                "Delali Linda Fiasam",
+                "Bonsu Adjei-Arthur",
+                "Sandra Obiora",
+                "Browne Judith Ayekai",
+                "S. K. Asare",
+                "Anto Leoba Jonathan",
+                "Zhen Qin"
+            ],
+            "8a14423eeaea7b6dba1722cabc8f0c8c29d049a8": [
+                "C. Ejiyi",
+                "Dongsheng Cai",
+                "M. B. Ejiyi",
+                "I. A. Chikwendu",
+                "Kenneth Coker",
+                "Ariyo Oluwasanmi",
+                "Oluwatoyosi F. Bamisile",
+                "T. U. Ejiyi",
+                "Zhen Qin"
+            ],
+            "5f112d2319f0749a4c62b380c62d8ebf9bad3e1b": [
+                "C. Ejiyi",
+                "Zhen Qin",
+                "M. B. Ejiyi",
+                "C. Ukwuoma",
+                "T. U. Ejiyi",
+                "G. W. Muoka",
+                "Emmanuel S. A. Gyarteng",
+                "Olusola O. Bamisile"
+            ],
+            "45ddbbacc58216c4de60e04ba56bd2bedd04f2c7": [
+                "S. A. Butt",
+                "Mudasser Naseer",
+                "Arshad Ali",
+                "Abbas Khalid",
+                "Tauseef Jamal",
+                "Sumera Naz"
+            ],
+            "23655570a343637650da6075994606021a133b92": [
+                "I. Mozes",
+                "O. Baron-Epel",
+                "Anthony D. Heymann"
+            ],
+            "4e44c0c417b379b9cd332aa76340fb138cff29f3": [
+                "C. Ejiyi",
+                "Zhen Qin",
+                "Ann O. Nnani",
+                "Fuhu Deng",
+                "T. U. Ejiyi",
+                "M. B. Ejiyi",
+                "V. K. Agbesi",
+                "Olusola O. Bamisile"
+            ],
+            "8fd6ac977e0da113ef318872b7a596c6170e671c": [
+                "C. Ejiyi",
+                "Zhen Qin",
+                "H. Monday",
+                "M. B. Ejiyi",
+                "C. Ukwuoma",
+                "T. U. Ejiyi",
+                "V. K. Agbesi",
+                "Amarachi Agu",
+                "C. Orakwue"
+            ],
+            "6f747d7574419fab717c63c60ac49f6bdd6885cf": [
+                "Abdul Haris Kuspranoto",
+                "Muhammad fa\u2019iz Alfatih"
+            ],
+            "e1e6505ac811c2fea191023951617fb4e707ed5b": [
+                "Hongyuan Gao",
+                "Huishuang Li",
+                "Yun Lin",
+                "Jingya Ma"
+            ],
+            "78c6f286dc32edb37de5ef4968cd8ce53c842a0f": [
+                "Oussama Senouci"
+            ],
+            "1ae4513e09b582767f2823054f4fb8bf998522a7": [
+                "Shirin Abbasi",
+                "Navid Khaledian",
+                "A. Rahmani"
+            ],
+            "1b12215a98061e76b580b0aed6ae053cf90ed697": [
+                "Navid Khaledian",
+                "Marcus Voelp",
+                "Sadoon Azizi",
+                "M. H. Shirvani"
+            ],
+            "49bb32aee5fde24e4f21c38f2a001eca93de1dca": [
+                "Lisper Mutwiri",
+                "A. C. Kirongo",
+                "Samson Munialo"
+            ],
+            "edbcc1530d73895bf2ea8530083a3fa2a6cb454e": [
+                "Pavith Rajapaksha",
+                "T. K. Wijayasiriwardhane"
+            ],
+            "7fcc9d47862adc8643f2001f1758471992859694": [
+                "A. Smirnov",
+                "E. Ritter",
+                "A. Savostin",
+                "D. Ritter",
+                "Andrey Lengard"
+            ],
+            "9f86ccbd2ef7f5bf45355f9efab660f9ef5b4974": [
+                "Liam Deehan",
+                "Ajeet Kaushik",
+                "G. R. Chaudhary",
+                "Pagona Papakonstantinou",
+                "Nikhil Bhalla"
+            ],
+            "a00ffcb900306b69703a90479dc5daa1b48f91bf": [
+                "Marin B. Marinov",
+                "Slav Dimitrov"
+            ],
+            "798d8741413a98e255ba10ae75c2d427b439908e": [
+                "Ivan Nedyalkov"
+            ],
+            "826457557856c5fbca622da96cb49ce2d0bc19b2": [
+                "Ivan Nedyalkov"
+            ],
+            "adc985dec24837f1bb11800c015cf245da2bead0": [
+                "Giuseppe Tricomi",
+                "Carlo Scaffidi",
+                "Antonio Puliafito",
+                "Salvatore Distefano"
+            ],
+            "557e6fc08ef66f90f27e33b1e984fd08bd7022b1": [
+                "Mario Colosi",
+                "Marco Garofalo",
+                "A. Galletta",
+                "M. Fazio",
+                "A. Celesti",
+                "Massimo Villari"
+            ],
+            "15c3b03fedb8473d43f05cb8cabce844b4272b18": [
+                "Nasiru Muhammad Dankolo",
+                "Nor Haizan Mohamed Radzi",
+                "Noorfa Haszlinna Mustaffa",
+                "Nurul Aida Osman",
+                "Danlami Gabi",
+                "Muhammed Nura Yusuf"
+            ]
+        },
+        "edges": [
+            [
+                "87e6cbce2c6d1f6e2e8b7492b44793e055321323",
+                "49af9b46020639c7b9f0a59c77b2e1b3bd53157c"
+            ],
+            [
+                "43db8360e926f2e163d61b4ddad595911e809359",
+                "49af9b46020639c7b9f0a59c77b2e1b3bd53157c"
+            ],
+            [
+                "6d36a982253f2e0f5bef8825d15923c12ff74951",
+                "49af9b46020639c7b9f0a59c77b2e1b3bd53157c"
+            ],
+            [
+                "2ab5d822026ad0b7f47071612442802423d3916b",
+                "49af9b46020639c7b9f0a59c77b2e1b3bd53157c"
+            ],
+            [
+                "19cd98d8f42bcf6d45e84d5aada7f20beb85960d",
+                "49af9b46020639c7b9f0a59c77b2e1b3bd53157c"
+            ],
+            [
+                "916da226be9f01ee5dce157f51bee5c27872969f",
+                "49af9b46020639c7b9f0a59c77b2e1b3bd53157c"
+            ],
+            [
+                "930d077b0d96456e9b64ee21d40d32e9d91a92a6",
+                "49af9b46020639c7b9f0a59c77b2e1b3bd53157c"
+            ],
+            [
+                "42fc669eba16f8c514207e19691633d959eaaab6",
+                "49af9b46020639c7b9f0a59c77b2e1b3bd53157c"
+            ],
+            [
+                "23bda784d71ad2bf3c8ea479ce596f571bb14c00",
+                "49af9b46020639c7b9f0a59c77b2e1b3bd53157c"
+            ],
+            [
+                "9af6d2fb0cf342bec2512ae5d1f21d952dd88af8",
+                "49af9b46020639c7b9f0a59c77b2e1b3bd53157c"
+            ],
+            [
+                "2d49a48ef53202b8334e47885545d78bd7e9c6db",
+                "49af9b46020639c7b9f0a59c77b2e1b3bd53157c"
+            ],
+            [
+                "4137f004e12093060e8866c534ee1690ac8cdd90",
+                "49af9b46020639c7b9f0a59c77b2e1b3bd53157c"
+            ],
+            [
+                "f98ff61a499110499c117df74b368d063d6a8f0f",
+                "49af9b46020639c7b9f0a59c77b2e1b3bd53157c"
+            ],
+            [
+                "1fd1edb005c32734f695ccc070bb498ff5eaf298",
+                "49af9b46020639c7b9f0a59c77b2e1b3bd53157c"
+            ],
+            [
+                "7511b927b1de87cc6f9a4d07768c584c72804967",
+                "49af9b46020639c7b9f0a59c77b2e1b3bd53157c"
+            ],
+            [
+                "5b9c4202ee1ce6d0513319cce4cf5bc952babe00",
+                "49af9b46020639c7b9f0a59c77b2e1b3bd53157c"
+            ],
+            [
+                "252d45ccdd0fd2e0e152bdc5b8696af0b355b5c0",
+                "49af9b46020639c7b9f0a59c77b2e1b3bd53157c"
+            ],
+            [
+                "81e3828d457f61a5e7637200f2b56b67f92563be",
+                "49af9b46020639c7b9f0a59c77b2e1b3bd53157c"
+            ],
+            [
+                "9ee5a2c6451ef6ab3cc9778de287437f772f4209",
+                "49af9b46020639c7b9f0a59c77b2e1b3bd53157c"
+            ],
+            [
+                "6db57dfc382f271e3c885b199c6c67a462e4beda",
+                "49af9b46020639c7b9f0a59c77b2e1b3bd53157c"
+            ],
+            [
+                "1031c42d45243e87b96cf84d9d102606b980cea1",
+                "49af9b46020639c7b9f0a59c77b2e1b3bd53157c"
+            ],
+            [
+                "9dc7387d66d81d288a1a571fae7d009f21e00a8d",
+                "49af9b46020639c7b9f0a59c77b2e1b3bd53157c"
+            ],
+            [
+                "2c862c103628ed5fe4e439db1f68ed29622df35a",
+                "49af9b46020639c7b9f0a59c77b2e1b3bd53157c"
+            ],
+            [
+                "8fb5a7db26839d1b385c36682ec59f9f885a41e4",
+                "49af9b46020639c7b9f0a59c77b2e1b3bd53157c"
+            ],
+            [
+                "6dcb8471448f383bf50f1fdae2c9ca46b85ed517",
+                "49af9b46020639c7b9f0a59c77b2e1b3bd53157c"
+            ],
+            [
+                "7c0d19bc38d298e74cd9f1bea33e7c7679bf62b1",
+                "49af9b46020639c7b9f0a59c77b2e1b3bd53157c"
+            ],
+            [
+                "e4052abd1093178082c7add1af886cd5e2fb197a",
+                "49af9b46020639c7b9f0a59c77b2e1b3bd53157c"
+            ],
+            [
+                "d88aeef67198cdba9084dc26327c4f4a849bb839",
+                "49af9b46020639c7b9f0a59c77b2e1b3bd53157c"
+            ],
+            [
+                "3b0b4b13366cb4bdc019b06a807bdf2cd48b4759",
+                "49af9b46020639c7b9f0a59c77b2e1b3bd53157c"
+            ],
+            [
+                "2b85b4ef2876fe37c64a1ad059a42152c8681322",
+                "49af9b46020639c7b9f0a59c77b2e1b3bd53157c"
+            ],
+            [
+                "0b1c5d239f52a345d68a7c5a8f0893a35b248bf7",
+                "49af9b46020639c7b9f0a59c77b2e1b3bd53157c"
+            ],
+            [
+                "85aa790c44a7d04fbc2d16b11bb5226884f94058",
+                "49af9b46020639c7b9f0a59c77b2e1b3bd53157c"
+            ],
+            [
+                "f50d073f67b8ce82eb4354884827ce1834c8c80b",
+                "49af9b46020639c7b9f0a59c77b2e1b3bd53157c"
+            ],
+            [
+                "49d7ef70ad410dbf4025e6318688f1ae4d71ed2a",
+                "49af9b46020639c7b9f0a59c77b2e1b3bd53157c"
+            ],
+            [
+                "d104df5f34f6a2eba936395838822de4c56e7c24",
+                "49af9b46020639c7b9f0a59c77b2e1b3bd53157c"
+            ],
+            [
+                "802a44725b7fa2868d6196565a093930d538f997",
+                "49af9b46020639c7b9f0a59c77b2e1b3bd53157c"
+            ],
+            [
+                "77a1498cd84428303ee449a508cc43fcc9cb82c9",
+                "49af9b46020639c7b9f0a59c77b2e1b3bd53157c"
+            ],
+            [
+                "e92fa108c15bd897f49af2a974d8e37709bbfbae",
+                "49af9b46020639c7b9f0a59c77b2e1b3bd53157c"
+            ],
+            [
+                "29875289adee9fcd7d66e5a6900819d8fe29e2bc",
+                "49af9b46020639c7b9f0a59c77b2e1b3bd53157c"
+            ],
+            [
+                "3410547e3f9a774a7f2b618aaf2a229463975cb4",
+                "49af9b46020639c7b9f0a59c77b2e1b3bd53157c"
+            ],
+            [
+                "4ffcc4dc8029630b609a7450b5d4f0c9d8d58f48",
+                "49af9b46020639c7b9f0a59c77b2e1b3bd53157c"
+            ],
+            [
+                "560159a84a8edb4dfceaf60b18cc3e41d85f94c7",
+                "49af9b46020639c7b9f0a59c77b2e1b3bd53157c"
+            ],
+            [
+                "a77f6cf54821ab89b9e2d2a76d3506b844330418",
+                "49af9b46020639c7b9f0a59c77b2e1b3bd53157c"
+            ],
+            [
+                "f86064f842f059d46d6acd317020ee9a44aa58c6",
+                "49af9b46020639c7b9f0a59c77b2e1b3bd53157c"
+            ],
+            [
+                "21cbd5a09a7fc255b1017a8034ba44353aad41a6",
+                "49af9b46020639c7b9f0a59c77b2e1b3bd53157c"
+            ],
+            [
+                "5b4984983f91ff1dc6a0856e882b4c105ce22d8f",
+                "49af9b46020639c7b9f0a59c77b2e1b3bd53157c"
+            ],
+            [
+                "dd9ee992f35d067d481d98865b36fc66a48327a1",
+                "49af9b46020639c7b9f0a59c77b2e1b3bd53157c"
+            ],
+            [
+                "8d18a4d4eb3aff73625cb40ebb1e1f2baa5191d1",
+                "49af9b46020639c7b9f0a59c77b2e1b3bd53157c"
+            ],
+            [
+                "10a8a7fc6f5d0631aa3aa0193ba711919e4087a9",
+                "49af9b46020639c7b9f0a59c77b2e1b3bd53157c"
+            ],
+            [
+                "43cca0797f5bb6cef26151ba2fe8fd6855856b65",
+                "49af9b46020639c7b9f0a59c77b2e1b3bd53157c"
+            ],
+            [
+                "6c878cb42c82d43fd2602018e2e50696666e30ff",
+                "49af9b46020639c7b9f0a59c77b2e1b3bd53157c"
+            ],
+            [
+                "24358579ea7c5d685ad932bdf6fef9f8420bede1",
+                "49af9b46020639c7b9f0a59c77b2e1b3bd53157c"
+            ],
+            [
+                "a8c14a5b952050f40b4bfd82be0ab0f48f798daf",
+                "49af9b46020639c7b9f0a59c77b2e1b3bd53157c"
+            ],
+            [
+                "34c72f9a87fb941dc07c54199df399ae6c6b8e2e",
+                "49af9b46020639c7b9f0a59c77b2e1b3bd53157c"
+            ],
+            [
+                "89c920918d6b622582090c8d982e9cb7a83067f7",
+                "49af9b46020639c7b9f0a59c77b2e1b3bd53157c"
+            ],
+            [
+                "3368d1926ac43cd7ba590fe812a34f6b024711b7",
+                "49af9b46020639c7b9f0a59c77b2e1b3bd53157c"
+            ],
+            [
+                "e0b04506854e4726dff20ac46c6732d5f709c173",
+                "49af9b46020639c7b9f0a59c77b2e1b3bd53157c"
+            ],
+            [
+                "fee2325f2c8f2c1cdd821080f259d9d89de87f50",
+                "49af9b46020639c7b9f0a59c77b2e1b3bd53157c"
+            ],
+            [
+                "6c34f93dbcb34e259114f3fcaaeb202c495ca3cb",
+                "49af9b46020639c7b9f0a59c77b2e1b3bd53157c"
+            ],
+            [
+                "68015a0d415825d08455ce4f7c92a66ffadeb9e4",
+                "49af9b46020639c7b9f0a59c77b2e1b3bd53157c"
+            ],
+            [
+                "ca216569425e11c8321d7f439db58799663e84a1",
+                "49af9b46020639c7b9f0a59c77b2e1b3bd53157c"
+            ],
+            [
+                "b68d5d1117fe6913ccc832e0a2b88c6271b1ffba",
+                "49af9b46020639c7b9f0a59c77b2e1b3bd53157c"
+            ],
+            [
+                "fa7379a85349b34517f9da2fdbde6fa2dd1f4846",
+                "49af9b46020639c7b9f0a59c77b2e1b3bd53157c"
+            ],
+            [
+                "b9ce1c6a88ee3064df9bc585ddf0fe6e454eef4e",
+                "49af9b46020639c7b9f0a59c77b2e1b3bd53157c"
+            ],
+            [
+                "19372d37c62eb025ddea21b124d8ecb40867b92a",
+                "49af9b46020639c7b9f0a59c77b2e1b3bd53157c"
+            ],
+            [
+                "8e66c795173ec184615e168d75996edd027ed676",
+                "49af9b46020639c7b9f0a59c77b2e1b3bd53157c"
+            ],
+            [
+                "c7ff423b6251071f0624af4c1940cfbae9d306ef",
+                "49af9b46020639c7b9f0a59c77b2e1b3bd53157c"
+            ],
+            [
+                "0262ce169542790051762a4e315fad8cdc2a4367",
+                "49af9b46020639c7b9f0a59c77b2e1b3bd53157c"
+            ],
+            [
+                "cca90506006f9fbbe1bf4d7a70e37c36c9c3a35e",
+                "49af9b46020639c7b9f0a59c77b2e1b3bd53157c"
+            ],
+            [
+                "c872b68b1da6ce66901f6d165db26196264e48ba",
+                "49af9b46020639c7b9f0a59c77b2e1b3bd53157c"
+            ],
+            [
+                "bb529ecb765ea2d6fc4cf73af63c1a610f9d243b",
+                "49af9b46020639c7b9f0a59c77b2e1b3bd53157c"
+            ],
+            [
+                "4fbe06d60014d6da008666cdc8a9396342995b6d",
+                "49af9b46020639c7b9f0a59c77b2e1b3bd53157c"
+            ],
+            [
+                "ac79a0e571002dc1f8409b339da6a2f3c3f27df3",
+                "49af9b46020639c7b9f0a59c77b2e1b3bd53157c"
+            ],
+            [
+                "65fbe47e84b2153eeb66481854084d553e1dc8ec",
+                "49af9b46020639c7b9f0a59c77b2e1b3bd53157c"
+            ],
+            [
+                "cd8604de23582d423c4ad10f60e40a27d764bb12",
+                "49af9b46020639c7b9f0a59c77b2e1b3bd53157c"
+            ],
+            [
+                "c22d1944395f6bd38bfd4ed6e3f6aa7e19ef4de9",
+                "49af9b46020639c7b9f0a59c77b2e1b3bd53157c"
+            ],
+            [
+                "39abf9dfe05c8c99672dffa0033786f183c5fcaf",
+                "49af9b46020639c7b9f0a59c77b2e1b3bd53157c"
+            ],
+            [
+                "2f940995f9011cc3b5113d6cbb57aabf0a03fc9b",
+                "43db8360e926f2e163d61b4ddad595911e809359"
+            ],
+            [
+                "ce4657c08cc8791ddebd625595dde58bab2645f9",
+                "6d36a982253f2e0f5bef8825d15923c12ff74951"
+            ],
+            [
+                "0053e96bdd0bf22ee3496f016a6ae83d11e5d682",
+                "6d36a982253f2e0f5bef8825d15923c12ff74951"
+            ],
+            [
+                "8722f30bca1b478d54f0bda59d842667e0469487",
+                "6d36a982253f2e0f5bef8825d15923c12ff74951"
+            ],
+            [
+                "f1f156fe3a4c802bee734251eb459b6d3c22a5d1",
+                "19cd98d8f42bcf6d45e84d5aada7f20beb85960d"
+            ],
+            [
+                "23b29368593023d366bdbec2a32317b8af0de691",
+                "916da226be9f01ee5dce157f51bee5c27872969f"
+            ],
+            [
+                "93f25a6829b49eb71629f6e477ed01267df28a6f",
+                "916da226be9f01ee5dce157f51bee5c27872969f"
+            ],
+            [
+                "4bcd16cff23818e80cfaf8e3a9fe9aaeb1f3e8c8",
+                "916da226be9f01ee5dce157f51bee5c27872969f"
+            ],
+            [
+                "66b63d222cf06d4e0fcc2b883c116aee6d230ebc",
+                "916da226be9f01ee5dce157f51bee5c27872969f"
+            ],
+            [
+                "f2a1457dc8673e54d580dd3028d6e2a0e00bc1ad",
+                "930d077b0d96456e9b64ee21d40d32e9d91a92a6"
+            ],
+            [
+                "1a450b592917956e7ab3432d47f8554550b8cd41",
+                "930d077b0d96456e9b64ee21d40d32e9d91a92a6"
+            ],
+            [
+                "5ed4fb294a9d044ccdda5cefeddbd9aae7fd4639",
+                "23bda784d71ad2bf3c8ea479ce596f571bb14c00"
+            ],
+            [
+                "98e8283d52f654ee23223b05def0bbbf90fa459d",
+                "23bda784d71ad2bf3c8ea479ce596f571bb14c00"
+            ],
+            [
+                "907fd557658a3059671cbf5f2281f45f8a887221",
+                "23bda784d71ad2bf3c8ea479ce596f571bb14c00"
+            ],
+            [
+                "ddb6ee1d06d8fad181238d524dc7cd3f63edcaa7",
+                "23bda784d71ad2bf3c8ea479ce596f571bb14c00"
+            ],
+            [
+                "a69da5bbc58732d443fdfd61bd4252045aed9ebb",
+                "23bda784d71ad2bf3c8ea479ce596f571bb14c00"
+            ],
+            [
+                "10c84603202e4f6716de064974a2fde099ed6323",
+                "23bda784d71ad2bf3c8ea479ce596f571bb14c00"
+            ],
+            [
+                "4f44eb1abb90cb91e3041e2e3458ec100597d4c1",
+                "2d49a48ef53202b8334e47885545d78bd7e9c6db"
+            ],
+            [
+                "891a89fad669dc7d107ad2d5a047b288b5cc9832",
+                "2d49a48ef53202b8334e47885545d78bd7e9c6db"
+            ],
+            [
+                "3c5bf0c7640b56f7bab4fb93ea8b6440c710fd0e",
+                "2d49a48ef53202b8334e47885545d78bd7e9c6db"
+            ],
+            [
+                "d8bb51276329e0af37cf27147aa29ed4067dcbb0",
+                "2d49a48ef53202b8334e47885545d78bd7e9c6db"
+            ],
+            [
+                "1ff74b7a42d5f7a3f0173191be4a7c7ce814478c",
+                "2d49a48ef53202b8334e47885545d78bd7e9c6db"
+            ],
+            [
+                "a9b5c0850d196200a10b643548d894448e9206ac",
+                "2d49a48ef53202b8334e47885545d78bd7e9c6db"
+            ],
+            [
+                "8f4fb544bc39b6ed62a99659ddb0c93a313860b6",
+                "2d49a48ef53202b8334e47885545d78bd7e9c6db"
+            ],
+            [
+                "d8fa6041aefb6b4af40a9c1acf64369895bd9565",
+                "2d49a48ef53202b8334e47885545d78bd7e9c6db"
+            ],
+            [
+                "115efb6260148f95ac6b93438bd18cb4adfdc77d",
+                "2d49a48ef53202b8334e47885545d78bd7e9c6db"
+            ],
+            [
+                "b02364ab877be7f412027c769eb368a8c4c10d35",
+                "2d49a48ef53202b8334e47885545d78bd7e9c6db"
+            ],
+            [
+                "65988e2a748efbe34a02e5b281d66e7c6ac0b317",
+                "4137f004e12093060e8866c534ee1690ac8cdd90"
+            ],
+            [
+                "9c2fa7a16dc8c799a5dec7084d4482ad93241491",
+                "4137f004e12093060e8866c534ee1690ac8cdd90"
+            ],
+            [
+                "be8da22838affd88860034f3fdde3736322de85d",
+                "4137f004e12093060e8866c534ee1690ac8cdd90"
+            ],
+            [
+                "8ea4e5e803aa1a646a2d817e6a9cc969b1c177df",
+                "4137f004e12093060e8866c534ee1690ac8cdd90"
+            ],
+            [
+                "6623ebe4d957577c1fad40c4e1e6944e30a023d5",
+                "7511b927b1de87cc6f9a4d07768c584c72804967"
+            ],
+            [
+                "dde989f4cab58d94c47438f598d2fff9326b6f4b",
+                "5b9c4202ee1ce6d0513319cce4cf5bc952babe00"
+            ],
+            [
+                "8a14423eeaea7b6dba1722cabc8f0c8c29d049a8",
+                "5b9c4202ee1ce6d0513319cce4cf5bc952babe00"
+            ],
+            [
+                "5f112d2319f0749a4c62b380c62d8ebf9bad3e1b",
+                "5b9c4202ee1ce6d0513319cce4cf5bc952babe00"
+            ],
+            [
+                "45ddbbacc58216c4de60e04ba56bd2bedd04f2c7",
+                "5b9c4202ee1ce6d0513319cce4cf5bc952babe00"
+            ],
+            [
+                "23655570a343637650da6075994606021a133b92",
+                "5b9c4202ee1ce6d0513319cce4cf5bc952babe00"
+            ],
+            [
+                "4e44c0c417b379b9cd332aa76340fb138cff29f3",
+                "5b9c4202ee1ce6d0513319cce4cf5bc952babe00"
+            ],
+            [
+                "8fd6ac977e0da113ef318872b7a596c6170e671c",
+                "5b9c4202ee1ce6d0513319cce4cf5bc952babe00"
+            ],
+            [
+                "6f747d7574419fab717c63c60ac49f6bdd6885cf",
+                "5b9c4202ee1ce6d0513319cce4cf5bc952babe00"
+            ],
+            [
+                "e1e6505ac811c2fea191023951617fb4e707ed5b",
+                "252d45ccdd0fd2e0e152bdc5b8696af0b355b5c0"
+            ],
+            [
+                "78c6f286dc32edb37de5ef4968cd8ce53c842a0f",
+                "81e3828d457f61a5e7637200f2b56b67f92563be"
+            ],
+            [
+                "1ae4513e09b582767f2823054f4fb8bf998522a7",
+                "81e3828d457f61a5e7637200f2b56b67f92563be"
+            ],
+            [
+                "1b12215a98061e76b580b0aed6ae053cf90ed697",
+                "81e3828d457f61a5e7637200f2b56b67f92563be"
+            ],
+            [
+                "49bb32aee5fde24e4f21c38f2a001eca93de1dca",
+                "9ee5a2c6451ef6ab3cc9778de287437f772f4209"
+            ],
+            [
+                "edbcc1530d73895bf2ea8530083a3fa2a6cb454e",
+                "9ee5a2c6451ef6ab3cc9778de287437f772f4209"
+            ],
+            [
+                "7fcc9d47862adc8643f2001f1758471992859694",
+                "1031c42d45243e87b96cf84d9d102606b980cea1"
+            ],
+            [
+                "9f86ccbd2ef7f5bf45355f9efab660f9ef5b4974",
+                "1031c42d45243e87b96cf84d9d102606b980cea1"
+            ],
+            [
+                "a00ffcb900306b69703a90479dc5daa1b48f91bf",
+                "1031c42d45243e87b96cf84d9d102606b980cea1"
+            ],
+            [
+                "798d8741413a98e255ba10ae75c2d427b439908e",
+                "1031c42d45243e87b96cf84d9d102606b980cea1"
+            ],
+            [
+                "826457557856c5fbca622da96cb49ce2d0bc19b2",
+                "1031c42d45243e87b96cf84d9d102606b980cea1"
+            ],
+            [
+                "adc985dec24837f1bb11800c015cf245da2bead0",
+                "9dc7387d66d81d288a1a571fae7d009f21e00a8d"
+            ],
+            [
+                "557e6fc08ef66f90f27e33b1e984fd08bd7022b1",
+                "9dc7387d66d81d288a1a571fae7d009f21e00a8d"
+            ],
+            [
+                "15c3b03fedb8473d43f05cb8cabce844b4272b18",
+                "9dc7387d66d81d288a1a571fae7d009f21e00a8d"
+            ]
+        ]
+    },
+    "559bcef033955ecb32aca43649b44fceb31c59aa": {
+        "dict": {
+            "559bcef033955ecb32aca43649b44fceb31c59aa": "Applicability of Blockchain smart contracts in securing Internet and IoT: A systematic literature review",
+            "09d8a7cbb0d25f651c6d05f52eeb9dec430b98d8": "Improving IoT Management with Blockchain: Smart Home Access Control",
+            "f8df957983453554ac630db47d512e2f7ad47225": "Distributed Databases for Computer Applications: Study and Selection of Distributed Ledger Technologies",
+            "fa22cc67208cefb1ac3d92e7a67f1e25a202c7b1": "Leveraging the usage of blockchain toward trust-dominated manufacturing systems",
+            "faf3b2b9c5ecd071f29a1ccd25bd294eaf7f140c": "Exploring IoT and Blockchain: A Comprehensive Survey on Security, Integration Strategies, Applications and Future Research Directions",
+            "3eca44f10a9e667636f94df832f74c1e16c3802c": "Analysing critical success factor of smart contract in construction industry with DANP approach",
+            "511ae9c052e0fb47e92d2b7a5bdd793dc84cc34c": "A survey on security issues in IoT operating systems",
+            "bf8321e237ad1b2d8f257d05ea671061c74526ff": "Access Control Verification in Smart Contracts Using Colored Petri Nets",
+            "42068e359bd38771b477b484b5f62b59144bf822": "FVF-BIoT: a formal verification framework for blockchain-based IoT authentication",
+            "4fcdba4b4af6031a6d7791f540287911b4d396b2": "Towards a Standard Framework for Integrating Blockchain with the Internet of Things",
+            "1308f67535e4c1d3394c36dfeaa9c78f42e1490e": "Unlocking the potential of blockchain technology in enhancing the fisheries supply chain: an exploration of critical adoption barriers in China",
+            "2e3d6a20354cb9a98bce9639b1525ccaa740ac95": "A Lightweight Blockchain Scheme for Secure Data Communication in Internet of Things-enabled Wireless Sensor Network",
+            "11facb5f4cb932260686959aacad26c8d159d1c8": "A Smart-Contract-Based Policy-Domain Access Control Framework for Distributed Industrial IoT",
+            "a8ebb7283a5f09ad7ad0002dc185a15251151b06": "Privacy as a Lifestyle: Empowering assistive technologies for people with disabilities, challenges and future directions",
+            "b120df351458aa013a8b7f9436ea80367dd182f4": "Exploring the integration of edge computing and blockchain IoT: Principles, architectures, security, and applications",
+            "f911fc7d65482c6a07b87465330148925f1d0b19": "MSLShard: An efficient sharding-based trust management framework for blockchain-empowered IoT access control",
+            "a076be04a113d350ef18e4d2b5786db472f42e7c": "A Systematic Review using Blockchain Technology for IOT-Based Health Care Security",
+            "8ba4783a4f83d10bdaffb1ce6215185920ec032e": "Community Healthcare: Safety, Privacy, and Usability of Smart Health Home Technologies",
+            "6c0fab66fc3b870cbb2de7d8cd3f7821b6acd904": "Blockchain-based secure dining: Enhancing safety, transparency, and traceability in food consumption environment",
+            "8057573b1d411888bf597014422f7b62530a5ce0": "TOWARDS STANDARDIZED REGULATIONS FOR BLOCK CHAIN SMART CONTRACTS: INSIGHTS FROM DELPHI AND SWARA ANALYSIS",
+            "79c0fd7f0e15f4ba5a837f84256611824726098f": "Revolutionizing Digital Banking: Harnessing Blockchain Smart Contracts for Enhanced Security and Efficiency",
+            "ca4fd229e9ae99cb49c5dcdc11721efd1ff7f4bc": "Monetization of Industrial IoT services using Blockchain and smart contract",
+            "43657149d1a5371772d85599b9557fadf1b139ef": "Distributed ledger technologies for authentication and access control in networking applications: A comprehensive survey",
+            "7c62a373e4b7b4b5c49ba58ff15a0d775b4b922a": "Blockchain Enabled Real Estate Property Transactions using NFT: An Approach",
+            "a285792953d7b89f5682696741c59887866f1256": "Blockchain Smart Contracts Suitability for Safeguarding the Internet of Things",
+            "37e6b75269ad067402f54929d917debe704f1bfb": "An assessment of blockchain academia and news developments:\u00a0a bibliometric and\u00a0text-mining analysis",
+            "3dddc9ab30ae43f976030f28024aedcd1e52c9ca": "Cryptocurrency and digital currency based on blockchain-enabled IoT: a bibliometric literature review",
+            "99dd9dcd310c9f861b8dee131d744b12db69e9b5": "Fog Computing with Optimized Block Chain Technique for IoT Based Data Security",
+            "f42028a11520e662f567b017402cda94ac45d6ab": "IoTBChain: Adopting Blockchain Technology to Increase PLC Resilience in an IoT Environment",
+            "1446e3ee52c1e665b89dd1ab41df19acdec507e8": "A Systematic Literature Review on Blockchain Technology in Software Engineering",
+            "96fb4328b8ccb29c0b1f954c0968e4cb22c3a638": "A Blockchain-Centric IoT Architecture for Effective Smart Contract-Based Management of IoT Data Communications",
+            "ede6b17c46fb63ceddfb9c40eb8fe8a54e96a75d": "Hyper contour cryptography with master Birch\u2010Brown Paruvala\u2010SLSTM model for enhanced healthcare security",
+            "036e45e39b49cba8f644b5a7e6be2ccf5455ef8b": "Survivability of industrial internet of things using machine learning and smart contracts",
+            "9fdc331483a85529b10e52ee652406cd58ac25ae": "PPFchain: A novel framework privacy-preserving blockchain-based federated learning method for sensor networks",
+            "8d7e9b3af9144e97bb2885c22ae422ecd75ca261": "Collaborative Smart Contracts (CoSC): example of real estate purchase and sale(s)",
+            "169b15e5eaa1cb2b5b3ab1874fdd2cd38f2f1ea2": "Barriers to blockchain technology adoption in supply chains: the case of India",
+            "c16d07c0a8898c548961c0be1e14029d86df0d8c": "A Blockchain-Based Cross-Domain and Autonomous Access Control Scheme for Internet of Things",
+            "1abc213403b16ca5cb4851ab3e1e95baafc68710": "Access management of IoT devices using access control mechanism and decentralized authentication: A review",
+            "640c8d79663ce5a751b8cdb030e69315e4609ef0": "Blockchain-enabled access control to prevent cyber attacks in IoT: Systematic literature review",
+            "38f6210acef46a736ccb119d3daee12c2b5e6e47": "Blockchain Enabled Architecture with Selective Consensus Mechanisms for IoT Based Saffron-Agri Value Chain",
+            "70bdbb1985cd68b4e1253886168e54957cb11377": "IoT with Multimedia Investigation: A Secure Process of Digital Forensics Chain-of-Custody using Blockchain Hyperledger Sawtooth",
+            "773fbfaa49d82921dd5c18ed28513d16c76729ca": "Securing the Internet of Things via Blockchain-Aided Smart Contracts",
+            "1fbb3b5dcb033c0e482b2523acfd239e27d6ef62": "Decision-making factors in the adoption of smart contracts in Brazilian companies",
+            "bbcd2346008c1d037a4b80cffd2c9c58c5ffd0de": "Blockchain and 6G-Enabled IoT",
+            "af8ccd5e826aa59f89f79d2ab67d0b2046ba33f3": "Improved TrustChain for Lightweight Devices",
+            "9f8dee9534199ca23e99cc5d3e2179362a8e22a8": "Quality of Service aware secure data transmission model for Internet of Things assisted wireless sensor networks",
+            "5db29c7c60a189071ba01cc9c5f76c54c70f6155": "A Blockchain-Based Trust Model for Uploading Illegal Data Identification",
+            "31f42be573c81bf17f4db1bf33a314c1dd60dfd0": "Blockchain-Based Federated Learning for Securing Internet of Things: A Comprehensive Survey",
+            "5a0916b35c233cef96dfdb939186bbd75ce21050": "COLLABORATIVE VALIDATION OF USER-CONTRIBUTED DATA USING A GEOSPATIAL BLOCKCHAIN APPROACH: THE SIMILE CASE STUDY",
+            "d192ef2d2c96d6a77a6ab7314dd94d0100aa244e": "Internet of Things and Blockchain Integration: Security, Privacy, Technical, and Design Challenges",
+            "3ef7f3f394dc5192331177813e592de09e9bbd70": "IoT Framework for Healthcare: A Review",
+            "5bc04824a51582aaf4504d80040402f52fa73954": "Geospatial Blockchain: review of decentralized geospatial data sharing systems",
+            "d9a3a1b7a2c8fed4dec4316c37254f9b22c9a2c3": "Authorization schemes for internet of things: requirements, weaknesses, future challenges and trends",
+            "5c84d1bc2a78c663759283a560266420e254fdf5": "Applications of Blockchain in Industry 4.0: a Review",
+            "e1f5dba3aa8053bf2b1c6cfa179ce562cb3df69d": "Factors Influencing the Behavioural Intention to Use Cryptocurrency in Emerging Economies During the COVID-19 Pandemic: Based on Technology Acceptance Model 3, Perceived Risk, and Financial Literacy",
+            "dcb5bb2d95dfd2b1fd25f1faa4ce4a6ea48ae27f": "Provide a new framework for blockchain-based integrated and resource classification for the cloud",
+            "02feb35540f7770d8b18faac47c0fde332aa7dce": "Hybrid Blockchain Platforms for the Internet of Things (IoT): A Systematic Literature Review",
+            "7ba631484c71ecce231021b41c1fe78a35b129c2": "Fusion of Blockchain, IoT and Artificial Intelligence - A Survey",
+            "27f0cd019e346c7414d396f61ad3f994ce63f927": "Security Improvement Technique for Distributed Control System (DCS) and Supervisory Control\u2010Data Acquisition (SCADA) Using Blockchain at Dark Web Platform",
+            "9c637957b17c76d17768a1b3641d4a3e94e2a588": "Unified Authentication and Access Control for Future Mobile Communication-Based Lightweight IoT Systems Using Blockchain",
+            "0b26ee2aa4e77598f200f75c0b6ec9ef3c12b23a": "Trustful data trading through monetizing IoT data using BlockChain based review system",
+            "773430511053621a88eed27c533abcc369058e26": "On the impact of smart contracts on auditing",
+            "92c9af9242931ee810bf04d584044e6fad4a8e40": "A Secure Access Scheme for Internet of Things Devices Based on Blockchain",
+            "0d138db654e9a661709013814643d443886bd74d": "A survey: Making \u201cSmart Contracts\u201d really smart",
+            "3212d7606722a43fd1ea7c4334fabdad88cd9637": "Security enhancement technologies for smart contracts in the blockchain: A survey",
+            "834f0c64491c23b9e4259ac85f4e092da8113a5a": "Technical Sustainability of Cloud-Based Blockchain Integrated with Machine Learning for Supply Chain Management",
+            "15a3ed0f3cff4bc79ff6da9803563a7e005fc882": "A study of application platform for smart contract visualization based blockchain",
+            "aa76e3e0f5a2d4f3f03815171bb62e5de787a554": "Contact tracing apps for the COVID-19 pandemic: a systematic literature review of challenges and future directions for neo-liberal societies",
+            "d3569820eb46ed2d219f1c35f9eda8661383757b": "A systematic literature mapping on secure identity management using blockchain technology",
+            "9058952041e7f0b4143b8700be09b6b0cbf0cccc": "Acceptance Rate Prediction of Blockchain in Automotive Supply Chain Management With a Bayesian Distributive Gradient Integrated BiLSTM",
+            "ee71dd894d4efb4af9dbe6018cf201ff93377f11": "Blockchain Based Secured Load Balanced Task Scheduling Approach for Fitness Service",
+            "b24d7a0afb252fdf8451de53504c03e6f42c627d": "Blockchain-based Federated Learning for Securing Internet of Things: A Comprehensive Survey",
+            "52a282282e8a0c0677359e16d317ad2af58b625d": "INDUSTRY 4.0, SUSTAINABILITY AND INNOVATION AT THE CROSSROAD: A REVIEW ANALISYS",
+            "292f92b9174f083e7ccdc05b9a3fe7890a55a52a": "IoT and Blockchain combined: for decentralized security",
+            "d8ce1817b915ac7fc7a8e57ebf6ce47e79f374c9": "Blockchain-based digital product passport: design principles and demonstration",
+            "9c173f82230a5cdee7f5a95954f98dc90b689fc0": "ParaBFT: An Efficient Parallel Asynchronous BFT Agreement",
+            "0a22e93aab234e0f68e82293c1a894073b2fa3ba": "Current research on Internet of Things (IoT) security protocols: A survey",
+            "2598f2f6d1c8968a90de1b4b7c1bf03d1c783e1f": "A Survey on Physical Layer Security for 5G/6G Communications over Different Fading Channels: Approaches, Challenges, and Future Directions",
+            "9a7d4a71f42df07662f46520fc551ca96978b015": "The Future of Food Security: The Role of Blockchain Technology in Global Aquaculture",
+            "9a32e61261334d83f24eab00d8c45c734a6cd15f": "A literature review on transformative impacts of blockchain technology on manufacturing management and industrial engineering practices",
+            "377a1acb5341c98d69fe758b222e99b60ac902ab": "Leveraging Blockchain for Ethical Sourcing and Sustainability in Supply Chains: A Systematic Review",
+            "dbc66a91d1ffb7d0634cfd00c8f5349acda58bbe": "Review of Barriers to Implement Blockchain Technologies in Logistics",
+            "a9bed58f3ca75d1713aa3b58514cb6556f18f7f7": "Investigation and Modelling of Barriers in Adoption of Blockchain Technology for Accounting and Finance",
+            "420d184bfa10739dc9f8128f829c3a68be5d9e73": "Feasibility Study of Security Enhancement Scheme of Blockchain Technology in Supply Chain Management",
+            "4edb82189e9730cdf9aebb197b523f1625070289": "LESP:A fault-aware internet of things service placement in fog computing",
+            "b480ce78eb0c5c422e8b07b07043e7ec54008292": "Homomorphic encryption, privacy-preserving feature extraction, and decentralized architecture for enhancing privacy in voice authentication",
+            "6908b77bf8bf1edbb27fd6ed7919535ec685a865": "The research landscape of industry 5.0: a scientific mapping based on bibliometric and topic modeling techniques",
+            "267b79bc0a915de9492bc7eb06bf9c50c2b4a466": "Integrating Artificial Intelligence in Nanomembrane Systems for Advanced Water Desalination",
+            "fb1fb8c3d58a31c82869fa1a5bf95c98fb069c0d": "A Comparative Study of Machine Learning and Deep Learning Approaches for Enhancing Intrusion Detection in IOT Environments",
+            "39ac359cdf48cc5aa70fbcbd0a1fe0929a45fbb4": "Artificial Intelligence of Things (AIoT) Advances in Aquaculture: A Review",
+            "3c3b5e001d413758bc69b6b45b34e782f22f6d98": "Convergence of blockchain, IoT, and machine learning: exploring opportunities and challenges \u2013 a systematic review",
+            "4bdf46e605368f9729d1f3f2b22f66b9b1754e78": "Skyward Secure: Advancing Drone Data-Sharing in 6G with Decentralized Dataspace and supported Technologies",
+            "637b0c1eaf74949eb61312453b3c7e2416199232": "Dynamic Task Offloading in Urban Saudi Arabia: Enhancing Vehicular Services through Edge Computing",
+            "5c3ca92c6ac391492f5f59bd5340000f731c71e8": "A Survey of Edge Caching Security: Framework, Methods, and Challenges",
+            "bf3ae3c51ffd44616e4a7137305c08f3c16959da": "Enhancing data security and privacy in energy applications: Integrating IoT and blockchain technologies",
+            "68098ee94380d7e58df44660215a2114356ee666": "A Review of Blockchain based Decentralised Authentication Solutions and their improvement through Metamask",
+            "2027ccd9862be33d41ec5cef755b81586a25a254": "A Review of Task Offloading Algorithms with Deep Reinforcement Learning",
+            "36fc9576c90ef2a3a60074980cba509cbaee0721": "Review on Open-Source IoT and Edge-Compatible Devices for Health Monitoring Applications",
+            "e572039d7a3f4b46901d1838c8bbf69afe6d3992": "Integrating Blockchain and Edge Computing: A Systematic Analysis of Security, Efficiency, and Scalability",
+            "ccc3daf0653743b871b7e5ea01acf56b1932ce25": "Unlocking a Promising Future: Integrating Blockchain Technology and FL-IoT in the Journey to 6G",
+            "f05e1f3a8ed801d255aa1f50dbd42485718560af": "A Comprehensive Survey on the Requirements, Applications, and Future Challenges for Access Control Models in IoT: The State of the Art",
+            "f9300bffd7c4655afaaed707fa05ed849b8c66cc": "Variance\u2010driven security optimisation in industrial IoT sensors",
+            "f89db4927356922c7e5be18bed0f5e2bbf237a2e": "StarCross: Redactable blockchain-based secure and lightweight data sharing framework for satellite-based IoT",
+            "f1a43ba2e0c1808b0be037dfede20863624675c6": "Blockchain for Secure Access Control in the Internet of Things: A Review and Comparative Analysis",
+            "3220884bbed81b6ba7fdffa30e091ebbf50b8d96": "A blockchain-based secure framework for data management",
+            "718cc02268bf66977994cb95779637cde29187a4": "Anomaly Detection in Blockchain Networks Using Unsupervised Learning: A Survey",
+            "f08be8038fd81b7ace9db03afa3562c72fda466d": "TIoT: A Trust by Design Architecture for Secure and Private Internet of Things (IoT)",
+            "ead97170e7077a1f0791ca4dde56c58ab7d40697": "Recent Advances in the Fabrication of Intelligent Packaging for Food Preservation: A Review",
+            "7911894a23e61b08b995be26aeac9b990dcae7b6": "Is blockchain truly improving supply chain information quality? A positivist case study research",
+            "a881c910bb48687d145d4a09a0cb3daa80950695": "Blockchain-enabled food traceability system and consumers\u2019 organic food consumption: A moderated mediation model of blockchain knowledge and trust in the organic food chain",
+            "50f92ffabadd071df63a06b6a50a3e928a6de8e6": "Empowering the restaurant industry: hyper ledger framework for safer and more transparent food supply chains",
+            "2b208eeaadcf35ff2a6f42a10bb8fd62afb1f78a": "Metaverse-supply chain and halal behavior: bibliometric analysis, framework and implications",
+            "abf163df34538182a1eea02f1b2b92428e151d1f": "Blockchain technology and consumers\u2019 organic food consumption: a moderated mediation model of blockchain-based trust and perceived blockchain-related information transparency",
+            "44fd9b4e4fc4535702d38a6eef829abd158e7634": "How Blockchain-Enabled Drivers Stimulate Consumers\u2019 Organic Food Purchase Intention: An Integrated Framework of Information Systems Success Model Within Stimulus-Organism-Response Theory in the Context of Vietnam",
+            "1493892e884807b4dafea5148c6755b0cf4237eb": "Integrating AI in Food Contaminant Analysis: Enhancing Quality and Environmental Protection",
+            "9b9cb35f269d808f945eec4d209e612c08b68a9a": "Research on the Impact of Multi-Agent Information Traceability on Quality and Safety of Agricultural Product Supply Chain Under Blockchain",
+            "46d2caf9565b5630476f47b37740a38042f15fe1": "Exploring Generational Perspectives on Restaurant Food Safety and Blockchain Implementation: A Survey Analysis",
+            "5a1e124bb29826e2c736ecf83f0f9c073450cb5d": "Transformative Potential IoT Sensor Frameworks for Real-Time Alzheimer's Detection and Monitoring in Elderly Populations",
+            "a3b1f41ed2bcca3515ae866baf4669e17f634026": "Innovations in Food Packaging: From Bio-Based Materials to Smart Packaging Systems",
+            "eb7d7d27cd0ffd482bb32e3d35a48635f884b0bc": "Leveraging Blockchain to Tackle Food Fraud: Innovations and Obstacles",
+            "3a723b56d300118a25cda95645aca082a7aff159": "Decentralized Ledger Technology for EPCIS 2.0: Utilizing NFTs for Enhanced Product Traceability",
+            "ca09fa4f639a4e59be0412e017a9f4b5986548fc": "Architecture Model for the Verification and Identification of Inappropriate Products by the Consumer - supported by IoT, Blockchain and AI",
+            "3fd9078ea0e280ec79fdfddc75af21bd1544b6e6": "Challenges and Strategies in Halal Supply Chain Management for MSEs in West Sumatra: A Participatory Action Research Study",
+            "b1a2e500ce506821d8ca6e70031c9d536a09521d": "Blockchain-based secure optimized traceable scheme for smart and sustainable food supply chain",
+            "21c18ba0ae124dfd2933c922a639659304391427": "Blockchain-Powered Food Supply Chain Tracking: A Paradigm Shift for Transparency, Accountability, and Quality Assurance Through BlockTrackers",
+            "7796068c5ae9bb2792f6f07beae2cea05ae9f9c0": "Restaurant recommendation based on location - Data and machine learning",
+            "b9f453041904b0185ebec0aca145dc17b6fcfc1c": "The Blockchain in Secure and Efficient Data Sharing: A Review",
+            "4a69636500fa561d909fc0ad09d96b32c0ccbbb1": "The Legal Nature of Smart Contracts in a Perspective of Jordanian Civil Legislation",
+            "f27d41c8049f7f50b7e46ff6790278759de4f26b": "The Use of Blockchain Technology for Smart Contracts in Future Business Agreements",
+            "91008bdfc6eaeb34e6ba991bd0632c5e27bf5aa7": "DBDAA: Dual blockchain and decentralized identifiers assisted anonymous authentication for building IoT",
+            "2bc4285afc2a07b5a8dbb18c2985607579596ba8": "Web3-Powered Service Provisioning in Cellular Networks using NFT and Self-Sovereign Identity",
+            "e22b09e4350e45527c1c532de5c2bc1d367f3954": "A Blockchain-based approach for Service Level Agreement Management in Cellular Network",
+            "15bb2f8fc51a0f1051c9671e4263baaa95e243b1": "Mobile robot localization: Current challenges and future prospective",
+            "02f76cff8efec5cea2b526fb9511092627a162f1": "Performance, privacy, and security issues of TCP/IP at the application layer: A comprehensive survey",
+            "9ce8f72b6bf47c39abe8e07990e7dfed2173c17e": "Security challenges in cloud computing: A comprehensive analysis"
+        },
+        "authors": {
+            "559bcef033955ecb32aca43649b44fceb31c59aa": [
+                "Auqib Hamid Lone",
+                "R. N. Mir"
+            ],
+            "09d8a7cbb0d25f651c6d05f52eeb9dec430b98d8": [
+                "Andrej Gono",
+                "Ivo Pisa\u0159ovic",
+                "Martin Zejda",
+                "Jarom\u00edr Landa",
+                "David Prochazka"
+            ],
+            "f8df957983453554ac630db47d512e2f7ad47225": [
+                "Carlo Kleber da Silva Rodrigues"
+            ],
+            "fa22cc67208cefb1ac3d92e7a67f1e25a202c7b1": [
+                "Philip Samaha",
+                "Fadi El Kalach",
+                "R. Harik"
+            ],
+            "faf3b2b9c5ecd071f29a1ccd25bd294eaf7f140c": [
+                "Muath A. Obaidat",
+                "Majdi Rawashdeh",
+                "Mohammad Alja\u2019afreh",
+                "Meryem Abouali",
+                "Kutub Thakur",
+                "Ali Karime"
+            ],
+            "3eca44f10a9e667636f94df832f74c1e16c3802c": [
+                "Hooman Rasti",
+                "A. Feili",
+                "Shahryar Sorooshian"
+            ],
+            "511ae9c052e0fb47e92d2b7a5bdd793dc84cc34c": [
+                "Panjun Sun",
+                "Yi Wan",
+                "Zong-Bing Wu",
+                "Zhaoxi Fang"
+            ],
+            "bf8321e237ad1b2d8f257d05ea671061c74526ff": [
+                "Issam Al-Azzoni",
+                "S. Iqbal"
+            ],
+            "42068e359bd38771b477b484b5f62b59144bf822": [
+                "Jiaqi Yin",
+                "Yuan Fei"
+            ],
+            "4fcdba4b4af6031a6d7791f540287911b4d396b2": [
+                "Sadegh Sohani",
+                "Maliheh Shahryari",
+                "Mohammad Allahbakhsh",
+                "Haleh Amintoosi"
+            ],
+            "1308f67535e4c1d3394c36dfeaa9c78f42e1490e": [
+                "Ubair Nisar",
+                "Zhixin Zhang",
+                "Bronwyn P. Wood",
+                "Shadab Ahmad",
+                "Ehsan Ellahi",
+                "Syed Ijaz Ul Haq",
+                "Mohamad Alnafissa",
+                "Elsayed Fathi Abd_Allah"
+            ],
+            "2e3d6a20354cb9a98bce9639b1525ccaa740ac95": [
+                "Lavina Balraj",
+                "A.Prasanth",
+                "K. Sowndarya",
+                "T.Kuntavai"
+            ],
+            "11facb5f4cb932260686959aacad26c8d159d1c8": [
+                "Song Luo",
+                "Tan Hu",
+                "Nian Han",
+                "Yuhua Qian"
+            ],
+            "a8ebb7283a5f09ad7ad0002dc185a15251151b06": [
+                "Adib Habbal",
+                "Hassen Hamouda",
+                "Abdullah M. Alnajim",
+                "Sheroz Khan",
+                "M. F. Alrifaie"
+            ],
+            "b120df351458aa013a8b7f9436ea80367dd182f4": [
+                "Tri Nguyen",
+                "Huong Nguyen",
+                "Tuan Anh Nguyen Gia"
+            ],
+            "f911fc7d65482c6a07b87465330148925f1d0b19": [
+                "Jin Tian",
+                "Junfeng Tian",
+                "Ruizhong Du"
+            ],
+            "a076be04a113d350ef18e4d2b5786db472f42e7c": [
+                "Kedar Nath Singh",
+                "Arvind Kumar Upadhyay"
+            ],
+            "8ba4783a4f83d10bdaffb1ce6215185920ec032e": [
+                "Tianhong Cai",
+                "Xiang Zhang",
+                "Yinglun Li",
+                "Stuart McDonald",
+                "Vladimir Brusi\u0107"
+            ],
+            "6c0fab66fc3b870cbb2de7d8cd3f7821b6acd904": [
+                "Sachin Yele",
+                "Ratnesh Litoriya"
+            ],
+            "8057573b1d411888bf597014422f7b62530a5ce0": [
+                "Shahin Heidari",
+                "Shannon Hashemi",
+                "Mohammad-Soroush Khorsand",
+                "Alireza Daneshfar",
+                "Seyedalireza Jazayerifar"
+            ],
+            "79c0fd7f0e15f4ba5a837f84256611824726098f": [
+                "Kuldeep Singh",
+                "Premalatha K P",
+                "Seema Benakatti",
+                "Vasudha Srivatsa"
+            ],
+            "ca4fd229e9ae99cb49c5dcdc11721efd1ff7f4bc": [
+                "R. Kilani",
+                "A. Zouinkhi",
+                "M. Abdelkrim"
+            ],
+            "43657149d1a5371772d85599b9557fadf1b139ef": [
+                "Fariba Ghaffari",
+                "E. Bertin",
+                "Noel Crespi",
+                "Julien Hatin"
+            ],
+            "7c62a373e4b7b4b5c49ba58ff15a0d775b4b922a": [
+                "Vivekrabinson K",
+                "Bharath Singh J",
+                "Rajesh Kumar S",
+                "Vijay M",
+                "Vijayakumar D",
+                "Shanmuga Raja B"
+            ],
+            "a285792953d7b89f5682696741c59887866f1256": [
+                "Deepika Khichi",
+                "Ajay Kumar Sharma",
+                "Mayank Patel"
+            ],
+            "37e6b75269ad067402f54929d917debe704f1bfb": [
+                "Chien-wen Shen",
+                "Phung Phi Tran"
+            ],
+            "3dddc9ab30ae43f976030f28024aedcd1e52c9ca": [
+                "Yangjing Zhou",
+                "Ahmed Najat Ahmed"
+            ],
+            "99dd9dcd310c9f861b8dee131d744b12db69e9b5": [
+                "Dhanya G. S Research Scholar",
+                "S. M. Celestin"
+            ],
+            "f42028a11520e662f567b017402cda94ac45d6ab": [
+                "Philipp Schmid",
+                "Alisa Schaffh\u00e4user",
+                "Rasha Kashef"
+            ],
+            "1446e3ee52c1e665b89dd1ab41df19acdec507e8": [
+                "Dzhillan Dzhalila",
+                "D. Siahaan",
+                "Reza Fauzan",
+                "Raka Asyrofi",
+                "Muhammad Ihsan Karimi"
+            ],
+            "96fb4328b8ccb29c0b1f954c0968e4cb22c3a638": [
+                "Abdulsalam S. Albulayhi",
+                "Ibrahim S. Alsukayti"
+            ],
+            "ede6b17c46fb63ceddfb9c40eb8fe8a54e96a75d": [
+                "P. Angelin",
+                "S. W. Franklin"
+            ],
+            "036e45e39b49cba8f644b5a7e6be2ccf5455ef8b": [
+                "Ishaani Priyadarshini",
+                "Raghvendra Kumar",
+                "A. Alkhayyat",
+                "Rohit Sharma",
+                "Kusum Yadav",
+                "Lulwah M. Alkwai",
+                "Sachin Kumar"
+            ],
+            "9fdc331483a85529b10e52ee652406cd58ac25ae": [
+                "Bora Bu\u011fra Sezer",
+                "Hasret Turkmen",
+                "U. Nuriyev"
+            ],
+            "8d7e9b3af9144e97bb2885c22ae422ecd75ca261": [
+                "Tunahan Timucin",
+                "Serdar Biro\u011ful"
+            ],
+            "169b15e5eaa1cb2b5b3ab1874fdd2cd38f2f1ea2": [
+                "Shahbaz Khan",
+                "A. Haleem",
+                "Zafar Husain",
+                "D. Samson",
+                "R. D. Pathak"
+            ],
+            "c16d07c0a8898c548961c0be1e14029d86df0d8c": [
+                "Xiaohan Hao",
+                "Wei Ren",
+                "Yang-yang Fei",
+                "Tianqing Zhu",
+                "K. Choo"
+            ],
+            "1abc213403b16ca5cb4851ab3e1e95baafc68710": [
+                "Inderpal Singh",
+                "Balraj Singh"
+            ],
+            "640c8d79663ce5a751b8cdb030e69315e4609ef0": [
+                "Rinki Singh",
+                "Deepika Kukreja",
+                "Devender Kumar Sharma"
+            ],
+            "38f6210acef46a736ccb119d3daee12c2b5e6e47": [
+                "Jahangeer Ali",
+                "S. Sofi"
+            ],
+            "70bdbb1985cd68b4e1253886168e54957cb11377": [
+                "A. Khan",
+                "A. Shaikh",
+                "Asif Ali Laghari"
+            ],
+            "773fbfaa49d82921dd5c18ed28513d16c76729ca": [
+                "S. M. Zanjani",
+                "Hossein Shahinzadeh",
+                "Jalal Moradi",
+                "Zohreh Rezaei",
+                "Bahareh Kaviani-Baghbaderani",
+                "Sudeep Tanwar"
+            ],
+            "1fbb3b5dcb033c0e482b2523acfd239e27d6ef62": [
+                "Alan Moreira Lopes",
+                "Jurandir Peinado",
+                "F. Vianna",
+                "Francis Kanashiro Meneghetti"
+            ],
+            "bbcd2346008c1d037a4b80cffd2c9c58c5ffd0de": [
+                "Houshyar Honar Pajooh",
+                "Serge N. Demidenko",
+                "Saad Aslam",
+                "Muhammad Harris"
+            ],
+            "af8ccd5e826aa59f89f79d2ab67d0b2046ba33f3": [
+                "Seyed Salar Ghazi",
+                "Haleh Amintoosi"
+            ],
+            "9f8dee9534199ca23e99cc5d3e2179362a8e22a8": [
+                "P. Velmurugadass",
+                "S. Dhanasekaran",
+                "Sonia S Anand",
+                "V. Vasudevan"
+            ],
+            "5db29c7c60a189071ba01cc9c5f76c54c70f6155": [
+                "Jieren Cheng",
+                "Yuanshen Li",
+                "Yuming Yuan",
+                "Bo Zhang",
+                "Xinbin Xu"
+            ],
+            "31f42be573c81bf17f4db1bf33a314c1dd60dfd0": [
+                "Wael Issa",
+                "Nour Moustafa",
+                "B. Turnbull",
+                "N. Sohrabi",
+                "Z. Tari"
+            ],
+            "5a0916b35c233cef96dfdb939186bbd75ce21050": [
+                "J. R. Cedeno Jimenez",
+                "A. Folini",
+                "M. Brovelli"
+            ],
+            "d192ef2d2c96d6a77a6ab7314dd94d0100aa244e": [
+                "Y. Alzoubi",
+                "A. Al-Ahmad",
+                "Hasan Kahtan",
+                "Ashraf Jaradat"
+            ],
+            "3ef7f3f394dc5192331177813e592de09e9bbd70": [
+                "Mehtab Alam",
+                "I. Khan",
+                "M. A. Alam",
+                "Farheen Siddiqui",
+                "Safdar Tanweer"
+            ],
+            "5bc04824a51582aaf4504d80040402f52fa73954": [
+                "J. R. Cedeno Jimenez",
+                "Pengxiang Zhao",
+                "A. Mansourian",
+                "M. Brovelli"
+            ],
+            "d9a3a1b7a2c8fed4dec4316c37254f9b22c9a2c3": [
+                "Abid Khan",
+                "Awais Ahmad",
+                "Mansoor Ahmed",
+                "Jadran Sessa",
+                "M. Anisetti"
+            ],
+            "5c84d1bc2a78c663759283a560266420e254fdf5": [
+                "Yong Chen",
+                "Yang Lu",
+                "L. Bulysheva",
+                "M. Kataev"
+            ],
+            "e1f5dba3aa8053bf2b1c6cfa179ce562cb3df69d": [
+                "Prapatchon Jariyapan",
+                "Suchira Mattayaphutron",
+                "Syeda Noorzahrah Gillani",
+                "Owais Shafique"
+            ],
+            "dcb5bb2d95dfd2b1fd25f1faa4ce4a6ea48ae27f": [
+                "Firas Hammoodi Neanah Al-mutar",
+                "A. Ibrahim",
+                "O. Ucan"
+            ],
+            "02feb35540f7770d8b18faac47c0fde332aa7dce": [
+                "Ahmed Alkhateeb",
+                "C. Catal",
+                "Gorkem Kar",
+                "A. Mishra"
+            ],
+            "7ba631484c71ecce231021b41c1fe78a35b129c2": [
+                "Srinivas Koppu",
+                "Kumar K",
+                "Siva Rama KRISHNAN SOMAYAJI",
+                "Iyapparaja Meenakshisundaram",
+                "Weizheng Wang",
+                "Chunhua Su"
+            ],
+            "27f0cd019e346c7414d396f61ad3f994ce63f927": [
+                "A. Rajawat",
+                "Romil Rawat",
+                "Kanishk Barhanpurkar"
+            ],
+            "9c637957b17c76d17768a1b3641d4a3e94e2a588": [
+                "Shubham Joshi",
+                "S. Stalin",
+                "P. Shukla",
+                "P. Shukla",
+                "Ruby Bhatt",
+                "Rajan Singh Bhadoria",
+                "B. Tiwari"
+            ],
+            "0b26ee2aa4e77598f200f75c0b6ec9ef3c12b23a": [
+                "Zain Abubaker",
+                "Asad Ullah Khan",
+                "Ahmad S. Almogren",
+                "Shahid Abbas",
+                "Atia Javaid",
+                "A. Radwan",
+                "Nadeem Javaid"
+            ],
+            "773430511053621a88eed27c533abcc369058e26": [
+                "J. Andr\u00e9s",
+                "Pedro Lorca"
+            ],
+            "92c9af9242931ee810bf04d584044e6fad4a8e40": [
+                "Wenzheng Li",
+                "JiYue Ying"
+            ],
+            "0d138db654e9a661709013814643d443886bd74d": [
+                "Tunahan Timucin",
+                "Serdar Biro\u011ful"
+            ],
+            "3212d7606722a43fd1ea7c4334fabdad88cd9637": [
+                "Yajing Wang",
+                "Jingsha He",
+                "Nafei Zhu",
+                "Yuzi Yi",
+                "Qingqing Zhang",
+                "Hongyu Song",
+                "Ruixin Xue"
+            ],
+            "834f0c64491c23b9e4259ac85f4e092da8113a5a": [
+                "Simon Wong",
+                "John-Kun-Woon Yeung",
+                "Yui-yip Lau",
+                "J. So"
+            ],
+            "15a3ed0f3cff4bc79ff6da9803563a7e005fc882": [
+                "Soonhyeong Jeong",
+                "Byeongtae Ahn"
+            ],
+            "aa76e3e0f5a2d4f3f03815171bb62e5de787a554": [
+                "A. Akinbi",
+                "M. Forshaw",
+                "Victoria Blinkhorn"
+            ],
+            "d3569820eb46ed2d219f1c35f9eda8661383757b": [
+                "Tripti Rathee",
+                "Parvinder Singh"
+            ],
+            "9058952041e7f0b4143b8700be09b6b0cbf0cccc": [
+                "Ahlaam Albuloushi",
+                "A. Alzubi",
+                "Tolga \u00d6z"
+            ],
+            "ee71dd894d4efb4af9dbe6018cf201ff93377f11": [
+                "Muhammad Ibrahim",
+                "Faisal Jamil",
+                "Yunjung Lee",
+                "Dohyeun Kim"
+            ],
+            "b24d7a0afb252fdf8451de53504c03e6f42c627d": [
+                "Wael Issa"
+            ],
+            "52a282282e8a0c0677359e16d317ad2af58b625d": [
+                "Florin Pucheanu"
+            ],
+            "292f92b9174f083e7ccdc05b9a3fe7890a55a52a": [
+                "Youn\u00e9s Abbassi",
+                "H. Benlahmar"
+            ],
+            "d8ce1817b915ac7fc7a8e57ebf6ce47e79f374c9": [
+                "Hugo Abreu",
+                "Vasco Pereira",
+                "Jo\u00e3o Barata"
+            ],
+            "9c173f82230a5cdee7f5a95954f98dc90b689fc0": [
+                "Yu Lan",
+                "Hui Huang",
+                "Qingming He",
+                "Caixia Wu",
+                "Shuaike Wu",
+                "Xiangzeng Kong"
+            ],
+            "0a22e93aab234e0f68e82293c1a894073b2fa3ba": [
+                "Raghavendra Mishra",
+                "Ankita Mishra"
+            ],
+            "2598f2f6d1c8968a90de1b4b7c1bf03d1c783e1f": [
+                "Parmila Devi",
+                "M. R. Bharti",
+                "Dikshant Gautam"
+            ],
+            "9a7d4a71f42df07662f46520fc551ca96978b015": [
+                "Zarith Sofea Hazzarul Hisham",
+                "Anha Ayamon",
+                "Nur Lisa Ashiqeen Mohd Fadzullah",
+                "Nurul Aisyah Mohd Rusllim",
+                "Majdi Ahmadi Mohd Zohdi",
+                "Muhammad Ammar Amsyar Mohd Azhar",
+                "Waiz Wajdi Mahamad Yazid",
+                "Muhammad Mukhrizq Wafiq Mohd Masri",
+                "Ahmad Anwar Zainuddin"
+            ],
+            "9a32e61261334d83f24eab00d8c45c734a6cd15f": [
+                "Dharmendra Hariyani",
+                "Poonam Hariyani",
+                "S. Mishra",
+                "Milind Kumar Sharma"
+            ],
+            "377a1acb5341c98d69fe758b222e99b60ac902ab": [
+                "Hatem Mosa",
+                "Amro Saleh",
+                "A. Qusef",
+                "Ahmad Altamimi",
+                "Mohammad Alnabhan"
+            ],
+            "dbc66a91d1ffb7d0634cfd00c8f5349acda58bbe": [
+                "Sinan \u00c7izmecio\u011flu",
+                "Ahmet \u00c7al\u0131k",
+                "Esra Boz"
+            ],
+            "a9bed58f3ca75d1713aa3b58514cb6556f18f7f7": [
+                "Kavita Chavali",
+                "Ajith Kumar V. V.",
+                "Sudha Mavuri",
+                "Chandan Kumar Tiwari",
+                "Abhinav Pal"
+            ],
+            "420d184bfa10739dc9f8128f829c3a68be5d9e73": [
+                "Jianxin Chen"
+            ],
+            "4edb82189e9730cdf9aebb197b523f1625070289": [
+                "H. K. Apat",
+                "Bibhudatta Sahoo"
+            ],
+            "b480ce78eb0c5c422e8b07b07043e7ec54008292": [
+                "Kathiresh Murugesan",
+                "Lavanya Subbarayalu Ramamurthy",
+                "Boopathi Palanisamy",
+                "Yamini Chandrasekar",
+                "Kavitha Masagoundanpudhur Shanmugam",
+                "Balluru Thammaiahshetty Adishankar Nithya",
+                "Velumani Thiyagaraja",
+                "Ramaraj Muniappan"
+            ],
+            "6908b77bf8bf1edbb27fd6ed7919535ec685a865": [
+                "Abderahman Rejeb",
+                "Karim Rejeb",
+                "Imen Zrelli",
+                "Yasanur Kayikci",
+                "Abdo Hassoun"
+            ],
+            "267b79bc0a915de9492bc7eb06bf9c50c2b4a466": [
+                "Anbarasu Krishnan",
+                "Thanigaivel Sundaram",
+                "Beemkumar Nagappan",
+                "Yuvarajan Devarajan",
+                "Bhumika"
+            ],
+            "fb1fb8c3d58a31c82869fa1a5bf95c98fb069c0d": [
+                "Shwethashree G C",
+                "Manjula S"
+            ],
+            "39ac359cdf48cc5aa70fbcbd0a1fe0929a45fbb4": [
+                "Yo-Ping Huang",
+                "Simon Peter Khabusi"
+            ],
+            "3c3b5e001d413758bc69b6b45b34e782f22f6d98": [
+                "Youssef Aounzou",
+                "Abdelhak Boulaalam",
+                "Fahd Kalloubi"
+            ],
+            "4bdf46e605368f9729d1f3f2b22f66b9b1754e78": [
+                "S. Alsamhi",
+                "Sumit Srivastava",
+                "Mamoon Rashid",
+                "Amnnah Alhabeeb",
+                "Santosh Kumar",
+                "Navin Singh Rajput",
+                "Ammar Hawbani",
+                "Liang Zhao",
+                "Mohammed A. A. Al-qaness",
+                "Edward Curry"
+            ],
+            "637b0c1eaf74949eb61312453b3c7e2416199232": [
+                "Mohammed Barakat",
+                "Rashid A. Saeed",
+                "Salaheldin Edam"
+            ],
+            "5c3ca92c6ac391492f5f59bd5340000f731c71e8": [
+                "Hang Zhang",
+                "Jinsong Wang",
+                "Zening Zhao",
+                "Zhao Zhao"
+            ],
+            "bf3ae3c51ffd44616e4a7137305c08f3c16959da": [
+                "Hari Mohan Rai",
+                "Kaustubh Kumar Shukla",
+                "Lilia Tightiz",
+                "Sanjeevikumar Padmanaban"
+            ],
+            "68098ee94380d7e58df44660215a2114356ee666": [
+                "Andleeb Khan",
+                "P. Nand",
+                "Bharat Bhushan",
+                "Alaa Ali Hameed",
+                "Akhtar Jamil"
+            ],
+            "2027ccd9862be33d41ec5cef755b81586a25a254": [
+                "Labdo A. U.",
+                "Dhabariya A. S.",
+                "Sani Z. M.",
+                "Abbayero M. A."
+            ],
+            "36fc9576c90ef2a3a60074980cba509cbaee0721": [
+                "Mamta Kumari",
+                "Mahendra Gaikwad",
+                "Salim A. Chavan"
+            ],
+            "e572039d7a3f4b46901d1838c8bbf69afe6d3992": [
+                "Youness Bentayeb",
+                "Kenza Chaoui",
+                "Hassan Badir"
+            ],
+            "ccc3daf0653743b871b7e5ea01acf56b1932ce25": [
+                "Fatemah H. Alghamedy",
+                "Nahla El-Haggar",
+                "Albandari Alsumayt",
+                "Zeyad M. Alfawaer",
+                "Majid Alshammari",
+                "L. Amouri",
+                "Sumayh S. Aljameel",
+                "Sarah Albassam"
+            ],
+            "f05e1f3a8ed801d255aa1f50dbd42485718560af": [
+                "Mohammad Shamim Ahsan",
+                "Al-Sakib Khan Pathan"
+            ],
+            "f9300bffd7c4655afaaed707fa05ed849b8c66cc": [
+                "Hardik Gupta",
+                "Sunil K. Singh",
+                "Sudhakar Kumar",
+                "Karan Sharma",
+                "Hardeep Saini",
+                "B. Gupta",
+                "Varsha Arya",
+                "Kwok Tai Chui"
+            ],
+            "f89db4927356922c7e5be18bed0f5e2bbf237a2e": [
+                "Rui Du",
+                "Tianyang Chen",
+                "Jin Tian",
+                "Tao Shang"
+            ],
+            "f1a43ba2e0c1808b0be037dfede20863624675c6": [
+                "Maroua Akkal",
+                "Sarra Cherbal",
+                "Boubakeur Annane",
+                "Hicham Lakhlef"
+            ],
+            "3220884bbed81b6ba7fdffa30e091ebbf50b8d96": [
+                "O. Zorlu",
+                "Adnan Ozsoy"
+            ],
+            "718cc02268bf66977994cb95779637cde29187a4": [
+                "Christos Cholevas",
+                "Eftychia Angeli",
+                "Zacharoula Sereti",
+                "Emmanouil Mavrikos",
+                "G. Tsekouras"
+            ],
+            "f08be8038fd81b7ace9db03afa3562c72fda466d": [
+                "H. Alsheakh",
+                "Tareq Nasser Mahdi",
+                "Mustafa S. Kadhm",
+                "Abeer Al Shammari",
+                "Fatimah I. Abdulsahib",
+                "Hazeem B Taher",
+                "Waleed Algriree",
+                "Marwa Q. Alobaidi",
+                "Hayder Dhafer Mohammed"
+            ],
+            "ead97170e7077a1f0791ca4dde56c58ab7d40697": [
+                "Tshamisane Mkhari",
+                "Jerry O. Adeyemi",
+                "O.A. Fawole"
+            ],
+            "7911894a23e61b08b995be26aeac9b990dcae7b6": [
+                "Rami Alkhudary"
+            ],
+            "a881c910bb48687d145d4a09a0cb3daa80950695": [
+                "Cong Doanh Duong",
+                "Thanh Tung Dao",
+                "Trong Nghia Vu",
+                "Thi Q. N. Ngo",
+                "Minh Hoa Nguyen"
+            ],
+            "50f92ffabadd071df63a06b6a50a3e928a6de8e6": [
+                "Sachin Yele",
+                "Ratnesh Litoriya",
+                "Pramod S. Nair",
+                "K. C. Bandhu"
+            ],
+            "2b208eeaadcf35ff2a6f42a10bb8fd62afb1f78a": [
+                "Yudi Fernando",
+                "Gaik Chin Eing",
+                "Ika Sari Wahyuni-TD"
+            ],
+            "abf163df34538182a1eea02f1b2b92428e151d1f": [
+                "Cong Doanh Duong",
+                "Thanh Hieu Nguyen",
+                "Thi Q. N. Ngo",
+                "Tung Dao Thanh",
+                "Nhat Minh Tran"
+            ],
+            "44fd9b4e4fc4535702d38a6eef829abd158e7634": [
+                "Bao Dinh Ho",
+                "Doanh Cong Duong",
+                "Viet Nga Thi Ngo",
+                "Hoa Minh Nguyen",
+                "Van Thu Bui"
+            ],
+            "1493892e884807b4dafea5148c6755b0cf4237eb": [
+                "Sathishkumar Kuppusamy",
+                "Moovendhan Meivelu",
+                "Loganathan Praburaman",
+                "Mohammed Mujahid Alam",
+                "Abdullah G. Al-Sehemi",
+                "Anbarasu K"
+            ],
+            "9b9cb35f269d808f945eec4d209e612c08b68a9a": [
+                "Lina Fang",
+                "Xin Zang"
+            ],
+            "46d2caf9565b5630476f47b37740a38042f15fe1": [
+                "Sachin Yele",
+                "Ratnesh Litoriya"
+            ],
+            "5a1e124bb29826e2c736ecf83f0f9c073450cb5d": [
+                "Kamlesh Mani",
+                "Kamlesh Kumar Singh",
+                "Ratnesh Litoriya"
+            ],
+            "a3b1f41ed2bcca3515ae866baf4669e17f634026": [
+                "Alan Portal D'almeida",
+                "Tiago Lima de Albuquerque"
+            ],
+            "eb7d7d27cd0ffd482bb32e3d35a48635f884b0bc": [
+                "Keru Duan",
+                "Helen Onyeaka",
+                "Gu Pang"
+            ],
+            "3a723b56d300118a25cda95645aca082a7aff159": [
+                "Fausto Neri da Silva Vanin",
+                "Yalew Tolcha",
+                "R. Righi",
+                "C. Costa",
+                "Daeyoung Kim"
+            ],
+            "ca09fa4f639a4e59be0412e017a9f4b5986548fc": [
+                "F. Enescu",
+                "Cosmin-George Nicolaescu",
+                "N. Bizon",
+                "V. Ionescu",
+                "Constantin Marius Marica",
+                "Robert-Nicolae Bostinaru"
+            ],
+            "3fd9078ea0e280ec79fdfddc75af21bd1544b6e6": [
+                "Roni Andespa",
+                "Yurni Yurni",
+                "Aldiyanto Aldiyanto",
+                "Gus Efendi"
+            ],
+            "b1a2e500ce506821d8ca6e70031c9d536a09521d": [
+                "Venkata Chunduri",
+                "Mohan Raparthi",
+                "Ramswaroop Reddy Yellu",
+                "Ismail Keshta",
+                "Haewon Byeon",
+                "Mukesh Soni",
+                "Mohammed Wasim Bhatt"
+            ],
+            "21c18ba0ae124dfd2933c922a639659304391427": [
+                "Mrignainy Kansal",
+                "Pancham Singh",
+                "Prateek Chaurasia",
+                "Anupam Dwivedi",
+                "Shahbaz Ali"
+            ],
+            "7796068c5ae9bb2792f6f07beae2cea05ae9f9c0": [
+                "Bennet Praba M. S.",
+                "Snigdha Raghavan Pradhipa",
+                "Sibil Arockian G.",
+                "Santhosh Tamilselvan"
+            ],
+            "b9f453041904b0185ebec0aca145dc17b6fcfc1c": [
+                "Kanaan J. Brakas",
+                "Mafaz Alanezi"
+            ],
+            "4a69636500fa561d909fc0ad09d96b32c0ccbbb1": [
+                "Raed Fawzi Aburoub",
+                "N. M. Althabhawi",
+                "Mohamad Rizal Abd Rahman",
+                "Bakhit Mohd Aldajeh"
+            ],
+            "f27d41c8049f7f50b7e46ff6790278759de4f26b": [
+                "Claudia Ovaliani Putri",
+                "Jacob Williams",
+                "Luna Anastasya",
+                "Dyah Juliastuti"
+            ],
+            "91008bdfc6eaeb34e6ba991bd0632c5e27bf5aa7": [
+                "Xiaohua Wu",
+                "Zheng Luo",
+                "Jun Cheng",
+                "Puyan Wang"
+            ],
+            "2bc4285afc2a07b5a8dbb18c2985607579596ba8": [
+                "Nischal Aryal",
+                "Fariba Ghaffari",
+                "E. Bertin",
+                "Noel Crespi"
+            ],
+            "e22b09e4350e45527c1c532de5c2bc1d367f3954": [
+                "Nischal Aryal",
+                "Fariba Ghaffari",
+                "E. Bertin",
+                "Noel Crespi"
+            ],
+            "15bb2f8fc51a0f1051c9671e4263baaa95e243b1": [
+                "Inam Ullah",
+                "Deepak Adhikari",
+                "Habib Khan",
+                "M. S. Anwar",
+                "Shabir Ahmad",
+                "Xiaoshan Bai"
+            ],
+            "02f76cff8efec5cea2b526fb9511092627a162f1": [
+                "Timothy Murkomen"
+            ],
+            "9ce8f72b6bf47c39abe8e07990e7dfed2173c17e": [
+                "Janet Julia Ang'udi"
+            ]
+        },
+        "edges": [
+            [
+                "09d8a7cbb0d25f651c6d05f52eeb9dec430b98d8",
+                "559bcef033955ecb32aca43649b44fceb31c59aa"
+            ],
+            [
+                "f8df957983453554ac630db47d512e2f7ad47225",
+                "559bcef033955ecb32aca43649b44fceb31c59aa"
+            ],
+            [
+                "fa22cc67208cefb1ac3d92e7a67f1e25a202c7b1",
+                "559bcef033955ecb32aca43649b44fceb31c59aa"
+            ],
+            [
+                "faf3b2b9c5ecd071f29a1ccd25bd294eaf7f140c",
+                "559bcef033955ecb32aca43649b44fceb31c59aa"
+            ],
+            [
+                "3eca44f10a9e667636f94df832f74c1e16c3802c",
+                "559bcef033955ecb32aca43649b44fceb31c59aa"
+            ],
+            [
+                "511ae9c052e0fb47e92d2b7a5bdd793dc84cc34c",
+                "559bcef033955ecb32aca43649b44fceb31c59aa"
+            ],
+            [
+                "bf8321e237ad1b2d8f257d05ea671061c74526ff",
+                "559bcef033955ecb32aca43649b44fceb31c59aa"
+            ],
+            [
+                "42068e359bd38771b477b484b5f62b59144bf822",
+                "559bcef033955ecb32aca43649b44fceb31c59aa"
+            ],
+            [
+                "4fcdba4b4af6031a6d7791f540287911b4d396b2",
+                "559bcef033955ecb32aca43649b44fceb31c59aa"
+            ],
+            [
+                "1308f67535e4c1d3394c36dfeaa9c78f42e1490e",
+                "559bcef033955ecb32aca43649b44fceb31c59aa"
+            ],
+            [
+                "2e3d6a20354cb9a98bce9639b1525ccaa740ac95",
+                "559bcef033955ecb32aca43649b44fceb31c59aa"
+            ],
+            [
+                "11facb5f4cb932260686959aacad26c8d159d1c8",
+                "559bcef033955ecb32aca43649b44fceb31c59aa"
+            ],
+            [
+                "a8ebb7283a5f09ad7ad0002dc185a15251151b06",
+                "559bcef033955ecb32aca43649b44fceb31c59aa"
+            ],
+            [
+                "b120df351458aa013a8b7f9436ea80367dd182f4",
+                "559bcef033955ecb32aca43649b44fceb31c59aa"
+            ],
+            [
+                "f911fc7d65482c6a07b87465330148925f1d0b19",
+                "559bcef033955ecb32aca43649b44fceb31c59aa"
+            ],
+            [
+                "a076be04a113d350ef18e4d2b5786db472f42e7c",
+                "559bcef033955ecb32aca43649b44fceb31c59aa"
+            ],
+            [
+                "8ba4783a4f83d10bdaffb1ce6215185920ec032e",
+                "559bcef033955ecb32aca43649b44fceb31c59aa"
+            ],
+            [
+                "6c0fab66fc3b870cbb2de7d8cd3f7821b6acd904",
+                "559bcef033955ecb32aca43649b44fceb31c59aa"
+            ],
+            [
+                "8057573b1d411888bf597014422f7b62530a5ce0",
+                "559bcef033955ecb32aca43649b44fceb31c59aa"
+            ],
+            [
+                "79c0fd7f0e15f4ba5a837f84256611824726098f",
+                "559bcef033955ecb32aca43649b44fceb31c59aa"
+            ],
+            [
+                "ca4fd229e9ae99cb49c5dcdc11721efd1ff7f4bc",
+                "559bcef033955ecb32aca43649b44fceb31c59aa"
+            ],
+            [
+                "43657149d1a5371772d85599b9557fadf1b139ef",
+                "559bcef033955ecb32aca43649b44fceb31c59aa"
+            ],
+            [
+                "7c62a373e4b7b4b5c49ba58ff15a0d775b4b922a",
+                "559bcef033955ecb32aca43649b44fceb31c59aa"
+            ],
+            [
+                "a285792953d7b89f5682696741c59887866f1256",
+                "559bcef033955ecb32aca43649b44fceb31c59aa"
+            ],
+            [
+                "37e6b75269ad067402f54929d917debe704f1bfb",
+                "559bcef033955ecb32aca43649b44fceb31c59aa"
+            ],
+            [
+                "3dddc9ab30ae43f976030f28024aedcd1e52c9ca",
+                "559bcef033955ecb32aca43649b44fceb31c59aa"
+            ],
+            [
+                "99dd9dcd310c9f861b8dee131d744b12db69e9b5",
+                "559bcef033955ecb32aca43649b44fceb31c59aa"
+            ],
+            [
+                "f42028a11520e662f567b017402cda94ac45d6ab",
+                "559bcef033955ecb32aca43649b44fceb31c59aa"
+            ],
+            [
+                "1446e3ee52c1e665b89dd1ab41df19acdec507e8",
+                "559bcef033955ecb32aca43649b44fceb31c59aa"
+            ],
+            [
+                "96fb4328b8ccb29c0b1f954c0968e4cb22c3a638",
+                "559bcef033955ecb32aca43649b44fceb31c59aa"
+            ],
+            [
+                "ede6b17c46fb63ceddfb9c40eb8fe8a54e96a75d",
+                "559bcef033955ecb32aca43649b44fceb31c59aa"
+            ],
+            [
+                "036e45e39b49cba8f644b5a7e6be2ccf5455ef8b",
+                "559bcef033955ecb32aca43649b44fceb31c59aa"
+            ],
+            [
+                "9fdc331483a85529b10e52ee652406cd58ac25ae",
+                "559bcef033955ecb32aca43649b44fceb31c59aa"
+            ],
+            [
+                "8d7e9b3af9144e97bb2885c22ae422ecd75ca261",
+                "559bcef033955ecb32aca43649b44fceb31c59aa"
+            ],
+            [
+                "169b15e5eaa1cb2b5b3ab1874fdd2cd38f2f1ea2",
+                "559bcef033955ecb32aca43649b44fceb31c59aa"
+            ],
+            [
+                "c16d07c0a8898c548961c0be1e14029d86df0d8c",
+                "559bcef033955ecb32aca43649b44fceb31c59aa"
+            ],
+            [
+                "1abc213403b16ca5cb4851ab3e1e95baafc68710",
+                "559bcef033955ecb32aca43649b44fceb31c59aa"
+            ],
+            [
+                "640c8d79663ce5a751b8cdb030e69315e4609ef0",
+                "559bcef033955ecb32aca43649b44fceb31c59aa"
+            ],
+            [
+                "38f6210acef46a736ccb119d3daee12c2b5e6e47",
+                "559bcef033955ecb32aca43649b44fceb31c59aa"
+            ],
+            [
+                "70bdbb1985cd68b4e1253886168e54957cb11377",
+                "559bcef033955ecb32aca43649b44fceb31c59aa"
+            ],
+            [
+                "773fbfaa49d82921dd5c18ed28513d16c76729ca",
+                "559bcef033955ecb32aca43649b44fceb31c59aa"
+            ],
+            [
+                "1fbb3b5dcb033c0e482b2523acfd239e27d6ef62",
+                "559bcef033955ecb32aca43649b44fceb31c59aa"
+            ],
+            [
+                "bbcd2346008c1d037a4b80cffd2c9c58c5ffd0de",
+                "559bcef033955ecb32aca43649b44fceb31c59aa"
+            ],
+            [
+                "af8ccd5e826aa59f89f79d2ab67d0b2046ba33f3",
+                "559bcef033955ecb32aca43649b44fceb31c59aa"
+            ],
+            [
+                "9f8dee9534199ca23e99cc5d3e2179362a8e22a8",
+                "559bcef033955ecb32aca43649b44fceb31c59aa"
+            ],
+            [
+                "5db29c7c60a189071ba01cc9c5f76c54c70f6155",
+                "559bcef033955ecb32aca43649b44fceb31c59aa"
+            ],
+            [
+                "31f42be573c81bf17f4db1bf33a314c1dd60dfd0",
+                "559bcef033955ecb32aca43649b44fceb31c59aa"
+            ],
+            [
+                "5a0916b35c233cef96dfdb939186bbd75ce21050",
+                "559bcef033955ecb32aca43649b44fceb31c59aa"
+            ],
+            [
+                "d192ef2d2c96d6a77a6ab7314dd94d0100aa244e",
+                "559bcef033955ecb32aca43649b44fceb31c59aa"
+            ],
+            [
+                "3ef7f3f394dc5192331177813e592de09e9bbd70",
+                "559bcef033955ecb32aca43649b44fceb31c59aa"
+            ],
+            [
+                "5bc04824a51582aaf4504d80040402f52fa73954",
+                "559bcef033955ecb32aca43649b44fceb31c59aa"
+            ],
+            [
+                "d9a3a1b7a2c8fed4dec4316c37254f9b22c9a2c3",
+                "559bcef033955ecb32aca43649b44fceb31c59aa"
+            ],
+            [
+                "5c84d1bc2a78c663759283a560266420e254fdf5",
+                "559bcef033955ecb32aca43649b44fceb31c59aa"
+            ],
+            [
+                "e1f5dba3aa8053bf2b1c6cfa179ce562cb3df69d",
+                "559bcef033955ecb32aca43649b44fceb31c59aa"
+            ],
+            [
+                "dcb5bb2d95dfd2b1fd25f1faa4ce4a6ea48ae27f",
+                "559bcef033955ecb32aca43649b44fceb31c59aa"
+            ],
+            [
+                "02feb35540f7770d8b18faac47c0fde332aa7dce",
+                "559bcef033955ecb32aca43649b44fceb31c59aa"
+            ],
+            [
+                "7ba631484c71ecce231021b41c1fe78a35b129c2",
+                "559bcef033955ecb32aca43649b44fceb31c59aa"
+            ],
+            [
+                "27f0cd019e346c7414d396f61ad3f994ce63f927",
+                "559bcef033955ecb32aca43649b44fceb31c59aa"
+            ],
+            [
+                "9c637957b17c76d17768a1b3641d4a3e94e2a588",
+                "559bcef033955ecb32aca43649b44fceb31c59aa"
+            ],
+            [
+                "0b26ee2aa4e77598f200f75c0b6ec9ef3c12b23a",
+                "559bcef033955ecb32aca43649b44fceb31c59aa"
+            ],
+            [
+                "773430511053621a88eed27c533abcc369058e26",
+                "559bcef033955ecb32aca43649b44fceb31c59aa"
+            ],
+            [
+                "92c9af9242931ee810bf04d584044e6fad4a8e40",
+                "559bcef033955ecb32aca43649b44fceb31c59aa"
+            ],
+            [
+                "0d138db654e9a661709013814643d443886bd74d",
+                "559bcef033955ecb32aca43649b44fceb31c59aa"
+            ],
+            [
+                "3212d7606722a43fd1ea7c4334fabdad88cd9637",
+                "559bcef033955ecb32aca43649b44fceb31c59aa"
+            ],
+            [
+                "834f0c64491c23b9e4259ac85f4e092da8113a5a",
+                "559bcef033955ecb32aca43649b44fceb31c59aa"
+            ],
+            [
+                "15a3ed0f3cff4bc79ff6da9803563a7e005fc882",
+                "559bcef033955ecb32aca43649b44fceb31c59aa"
+            ],
+            [
+                "aa76e3e0f5a2d4f3f03815171bb62e5de787a554",
+                "559bcef033955ecb32aca43649b44fceb31c59aa"
+            ],
+            [
+                "d3569820eb46ed2d219f1c35f9eda8661383757b",
+                "559bcef033955ecb32aca43649b44fceb31c59aa"
+            ],
+            [
+                "9058952041e7f0b4143b8700be09b6b0cbf0cccc",
+                "559bcef033955ecb32aca43649b44fceb31c59aa"
+            ],
+            [
+                "ee71dd894d4efb4af9dbe6018cf201ff93377f11",
+                "559bcef033955ecb32aca43649b44fceb31c59aa"
+            ],
+            [
+                "b24d7a0afb252fdf8451de53504c03e6f42c627d",
+                "559bcef033955ecb32aca43649b44fceb31c59aa"
+            ],
+            [
+                "52a282282e8a0c0677359e16d317ad2af58b625d",
+                "559bcef033955ecb32aca43649b44fceb31c59aa"
+            ],
+            [
+                "292f92b9174f083e7ccdc05b9a3fe7890a55a52a",
+                "559bcef033955ecb32aca43649b44fceb31c59aa"
+            ],
+            [
+                "d8ce1817b915ac7fc7a8e57ebf6ce47e79f374c9",
+                "fa22cc67208cefb1ac3d92e7a67f1e25a202c7b1"
+            ],
+            [
+                "9c173f82230a5cdee7f5a95954f98dc90b689fc0",
+                "fa22cc67208cefb1ac3d92e7a67f1e25a202c7b1"
+            ],
+            [
+                "0a22e93aab234e0f68e82293c1a894073b2fa3ba",
+                "511ae9c052e0fb47e92d2b7a5bdd793dc84cc34c"
+            ],
+            [
+                "2598f2f6d1c8968a90de1b4b7c1bf03d1c783e1f",
+                "511ae9c052e0fb47e92d2b7a5bdd793dc84cc34c"
+            ],
+            [
+                "9a7d4a71f42df07662f46520fc551ca96978b015",
+                "1308f67535e4c1d3394c36dfeaa9c78f42e1490e"
+            ],
+            [
+                "9a32e61261334d83f24eab00d8c45c734a6cd15f",
+                "1308f67535e4c1d3394c36dfeaa9c78f42e1490e"
+            ],
+            [
+                "377a1acb5341c98d69fe758b222e99b60ac902ab",
+                "1308f67535e4c1d3394c36dfeaa9c78f42e1490e"
+            ],
+            [
+                "dbc66a91d1ffb7d0634cfd00c8f5349acda58bbe",
+                "1308f67535e4c1d3394c36dfeaa9c78f42e1490e"
+            ],
+            [
+                "a9bed58f3ca75d1713aa3b58514cb6556f18f7f7",
+                "1308f67535e4c1d3394c36dfeaa9c78f42e1490e"
+            ],
+            [
+                "420d184bfa10739dc9f8128f829c3a68be5d9e73",
+                "1308f67535e4c1d3394c36dfeaa9c78f42e1490e"
+            ],
+            [
+                "4edb82189e9730cdf9aebb197b523f1625070289",
+                "2e3d6a20354cb9a98bce9639b1525ccaa740ac95"
+            ],
+            [
+                "b480ce78eb0c5c422e8b07b07043e7ec54008292",
+                "a8ebb7283a5f09ad7ad0002dc185a15251151b06"
+            ],
+            [
+                "6908b77bf8bf1edbb27fd6ed7919535ec685a865",
+                "a8ebb7283a5f09ad7ad0002dc185a15251151b06"
+            ],
+            [
+                "267b79bc0a915de9492bc7eb06bf9c50c2b4a466",
+                "a8ebb7283a5f09ad7ad0002dc185a15251151b06"
+            ],
+            [
+                "fb1fb8c3d58a31c82869fa1a5bf95c98fb069c0d",
+                "b120df351458aa013a8b7f9436ea80367dd182f4"
+            ],
+            [
+                "39ac359cdf48cc5aa70fbcbd0a1fe0929a45fbb4",
+                "b120df351458aa013a8b7f9436ea80367dd182f4"
+            ],
+            [
+                "3c3b5e001d413758bc69b6b45b34e782f22f6d98",
+                "b120df351458aa013a8b7f9436ea80367dd182f4"
+            ],
+            [
+                "4bdf46e605368f9729d1f3f2b22f66b9b1754e78",
+                "b120df351458aa013a8b7f9436ea80367dd182f4"
+            ],
+            [
+                "637b0c1eaf74949eb61312453b3c7e2416199232",
+                "b120df351458aa013a8b7f9436ea80367dd182f4"
+            ],
+            [
+                "5c3ca92c6ac391492f5f59bd5340000f731c71e8",
+                "b120df351458aa013a8b7f9436ea80367dd182f4"
+            ],
+            [
+                "bf3ae3c51ffd44616e4a7137305c08f3c16959da",
+                "b120df351458aa013a8b7f9436ea80367dd182f4"
+            ],
+            [
+                "68098ee94380d7e58df44660215a2114356ee666",
+                "b120df351458aa013a8b7f9436ea80367dd182f4"
+            ],
+            [
+                "2027ccd9862be33d41ec5cef755b81586a25a254",
+                "b120df351458aa013a8b7f9436ea80367dd182f4"
+            ],
+            [
+                "36fc9576c90ef2a3a60074980cba509cbaee0721",
+                "b120df351458aa013a8b7f9436ea80367dd182f4"
+            ],
+            [
+                "e572039d7a3f4b46901d1838c8bbf69afe6d3992",
+                "b120df351458aa013a8b7f9436ea80367dd182f4"
+            ],
+            [
+                "ccc3daf0653743b871b7e5ea01acf56b1932ce25",
+                "b120df351458aa013a8b7f9436ea80367dd182f4"
+            ],
+            [
+                "f05e1f3a8ed801d255aa1f50dbd42485718560af",
+                "f911fc7d65482c6a07b87465330148925f1d0b19"
+            ],
+            [
+                "f9300bffd7c4655afaaed707fa05ed849b8c66cc",
+                "f911fc7d65482c6a07b87465330148925f1d0b19"
+            ],
+            [
+                "f89db4927356922c7e5be18bed0f5e2bbf237a2e",
+                "f911fc7d65482c6a07b87465330148925f1d0b19"
+            ],
+            [
+                "f1a43ba2e0c1808b0be037dfede20863624675c6",
+                "f911fc7d65482c6a07b87465330148925f1d0b19"
+            ],
+            [
+                "3220884bbed81b6ba7fdffa30e091ebbf50b8d96",
+                "f911fc7d65482c6a07b87465330148925f1d0b19"
+            ],
+            [
+                "718cc02268bf66977994cb95779637cde29187a4",
+                "f911fc7d65482c6a07b87465330148925f1d0b19"
+            ],
+            [
+                "f08be8038fd81b7ace9db03afa3562c72fda466d",
+                "f911fc7d65482c6a07b87465330148925f1d0b19"
+            ],
+            [
+                "ead97170e7077a1f0791ca4dde56c58ab7d40697",
+                "6c0fab66fc3b870cbb2de7d8cd3f7821b6acd904"
+            ],
+            [
+                "7911894a23e61b08b995be26aeac9b990dcae7b6",
+                "6c0fab66fc3b870cbb2de7d8cd3f7821b6acd904"
+            ],
+            [
+                "a881c910bb48687d145d4a09a0cb3daa80950695",
+                "6c0fab66fc3b870cbb2de7d8cd3f7821b6acd904"
+            ],
+            [
+                "50f92ffabadd071df63a06b6a50a3e928a6de8e6",
+                "6c0fab66fc3b870cbb2de7d8cd3f7821b6acd904"
+            ],
+            [
+                "2b208eeaadcf35ff2a6f42a10bb8fd62afb1f78a",
+                "6c0fab66fc3b870cbb2de7d8cd3f7821b6acd904"
+            ],
+            [
+                "abf163df34538182a1eea02f1b2b92428e151d1f",
+                "6c0fab66fc3b870cbb2de7d8cd3f7821b6acd904"
+            ],
+            [
+                "44fd9b4e4fc4535702d38a6eef829abd158e7634",
+                "6c0fab66fc3b870cbb2de7d8cd3f7821b6acd904"
+            ],
+            [
+                "1493892e884807b4dafea5148c6755b0cf4237eb",
+                "6c0fab66fc3b870cbb2de7d8cd3f7821b6acd904"
+            ],
+            [
+                "9b9cb35f269d808f945eec4d209e612c08b68a9a",
+                "6c0fab66fc3b870cbb2de7d8cd3f7821b6acd904"
+            ],
+            [
+                "46d2caf9565b5630476f47b37740a38042f15fe1",
+                "6c0fab66fc3b870cbb2de7d8cd3f7821b6acd904"
+            ],
+            [
+                "5a1e124bb29826e2c736ecf83f0f9c073450cb5d",
+                "6c0fab66fc3b870cbb2de7d8cd3f7821b6acd904"
+            ],
+            [
+                "a3b1f41ed2bcca3515ae866baf4669e17f634026",
+                "6c0fab66fc3b870cbb2de7d8cd3f7821b6acd904"
+            ],
+            [
+                "eb7d7d27cd0ffd482bb32e3d35a48635f884b0bc",
+                "6c0fab66fc3b870cbb2de7d8cd3f7821b6acd904"
+            ],
+            [
+                "3a723b56d300118a25cda95645aca082a7aff159",
+                "6c0fab66fc3b870cbb2de7d8cd3f7821b6acd904"
+            ],
+            [
+                "ca09fa4f639a4e59be0412e017a9f4b5986548fc",
+                "6c0fab66fc3b870cbb2de7d8cd3f7821b6acd904"
+            ],
+            [
+                "3fd9078ea0e280ec79fdfddc75af21bd1544b6e6",
+                "6c0fab66fc3b870cbb2de7d8cd3f7821b6acd904"
+            ],
+            [
+                "b1a2e500ce506821d8ca6e70031c9d536a09521d",
+                "6c0fab66fc3b870cbb2de7d8cd3f7821b6acd904"
+            ],
+            [
+                "21c18ba0ae124dfd2933c922a639659304391427",
+                "6c0fab66fc3b870cbb2de7d8cd3f7821b6acd904"
+            ],
+            [
+                "7796068c5ae9bb2792f6f07beae2cea05ae9f9c0",
+                "6c0fab66fc3b870cbb2de7d8cd3f7821b6acd904"
+            ],
+            [
+                "b9f453041904b0185ebec0aca145dc17b6fcfc1c",
+                "6c0fab66fc3b870cbb2de7d8cd3f7821b6acd904"
+            ],
+            [
+                "4a69636500fa561d909fc0ad09d96b32c0ccbbb1",
+                "8057573b1d411888bf597014422f7b62530a5ce0"
+            ],
+            [
+                "f27d41c8049f7f50b7e46ff6790278759de4f26b",
+                "8057573b1d411888bf597014422f7b62530a5ce0"
+            ],
+            [
+                "91008bdfc6eaeb34e6ba991bd0632c5e27bf5aa7",
+                "43657149d1a5371772d85599b9557fadf1b139ef"
+            ],
+            [
+                "2bc4285afc2a07b5a8dbb18c2985607579596ba8",
+                "43657149d1a5371772d85599b9557fadf1b139ef"
+            ],
+            [
+                "e22b09e4350e45527c1c532de5c2bc1d367f3954",
+                "43657149d1a5371772d85599b9557fadf1b139ef"
+            ],
+            [
+                "15bb2f8fc51a0f1051c9671e4263baaa95e243b1",
+                "43657149d1a5371772d85599b9557fadf1b139ef"
+            ],
+            [
+                "02f76cff8efec5cea2b526fb9511092627a162f1",
+                "43657149d1a5371772d85599b9557fadf1b139ef"
+            ],
+            [
+                "9ce8f72b6bf47c39abe8e07990e7dfed2173c17e",
+                "43657149d1a5371772d85599b9557fadf1b139ef"
+            ]
+        ]
+    }
+}
